@@ -1,0 +1,5242 @@
+fileFormatVersion: 2
+guid: c6bcbe06e9f6b5143bd1fa03504c091b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 10_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      1: 100002
+    second: 11_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      1: 100004
+    second: 12_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      1: 100006
+    second: 13_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      1: 100008
+    second: 14_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      1: 100010
+    second: 15_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      1: 100012
+    second: 16_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      1: 100014
+    second: 17_undead_evilSylvanas_righair_geo_LOD1
+  - first:
+      1: 100016
+    second: 18_undead_evilSylvanas_righair_geo_LOD2
+  - first:
+      1: 100018
+    second: 19_undead_evilSylvanas_righair_geo_LOD3
+  - first:
+      1: 100020
+    second: 1_undead_evilSylvanas_rig:main_geo
+  - first:
+      1: 100022
+    second: 20_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      1: 100024
+    second: 21_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      1: 100026
+    second: 22_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      1: 100028
+    second: 23_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      1: 100030
+    second: 24_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      1: 100032
+    second: 25_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      1: 100034
+    second: 26_undead_evilSylvanas_rigweapon_geo_LOD1
+  - first:
+      1: 100036
+    second: 27_undead_evilSylvanas_rigweapon_geo_LOD2
+  - first:
+      1: 100038
+    second: 28_undead_evilSylvanas_rigweapon_geo_LOD3
+  - first:
+      1: 100040
+    second: 29_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      1: 100042
+    second: 2_undead_evilSylvanas_rig:main_geo
+  - first:
+      1: 100044
+    second: 30_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      1: 100046
+    second: 31_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      1: 100048
+    second: 32_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      1: 100050
+    second: 33_undead_evilSylvanas_rigquiver_geo_LOD3
+  - first:
+      1: 100052
+    second: 34_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      1: 100054
+    second: 35_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      1: 100056
+    second: 36_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      1: 100058
+    second: 37_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      1: 100060
+    second: 38_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      1: 100062
+    second: 39_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      1: 100064
+    second: 3_undead_evilSylvanas_rig:hair_geo
+  - first:
+      1: 100066
+    second: 4_undead_evilSylvanas_rig:cape_geo
+  - first:
+      1: 100068
+    second: 5_undead_evilSylvanas_rig:cape_geo
+  - first:
+      1: 100070
+    second: 6_undead_evilSylvanas_rig:weapon_geo
+  - first:
+      1: 100072
+    second: 7_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      1: 100074
+    second: 8_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      1: 100076
+    second: 9_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      1: 100078
+    second: arrow_01_bind_jnt
+  - first:
+      1: 100080
+    second: arrow_02_bind_jnt
+  - first:
+      1: 100082
+    second: arrow_03_bind_jnt
+  - first:
+      1: 100084
+    second: arrow_04_bind_jnt
+  - first:
+      1: 100086
+    second: arrow_05_bind_jnt
+  - first:
+      1: 100088
+    second: arrow_bind_jnt
+  - first:
+      1: 100090
+    second: B_KGS_Arm_L
+  - first:
+      1: 100092
+    second: B_KGS_Arm_R
+  - first:
+      1: 100094
+    second: B_KGS_BoxCol_0
+  - first:
+      1: 100096
+    second: B_KGS_Head
+  - first:
+      1: 100098
+    second: B_KGS_Leg_L
+  - first:
+      1: 100100
+    second: B_KGS_Leg_R
+  - first:
+      1: 100102
+    second: B_KGS_Root
+  - first:
+      1: 100104
+    second: B_KGS_Torso
+  - first:
+      1: 100106
+    second: B_KGS_Weapon
+  - first:
+      1: 100108
+    second: bone_chest
+  - first:
+      1: 100110
+    second: bone_hand_left
+  - first:
+      1: 100112
+    second: bone_hand_right
+  - first:
+      1: 100114
+    second: bone_head
+  - first:
+      1: 100116
+    second: bone_leg_left
+  - first:
+      1: 100118
+    second: bone_leg_right
+  - first:
+      1: 100120
+    second: bone_turret
+  - first:
+      1: 100122
+    second: bow_lwr_limb_bind_jnt
+  - first:
+      1: 100124
+    second: bow_upr_limb_bind_jnt
+  - first:
+      1: 100126
+    second: bowstring_bind_jnt
+  - first:
+      1: 100128
+    second: Chest Ref
+  - first:
+      1: 100130
+    second: DarkSmoke
+  - first:
+      1: 100132
+    second: EvilSylvanas
+  - first:
+      1: 100134
+    second: //RootNode
+  - first:
+      1: 100136
+    second: Foot Left Ref
+  - first:
+      1: 100138
+    second: Foot Right Ref
+  - first:
+      1: 100140
+    second: FPTxFBL0
+  - first:
+      1: 100142
+    second: FPTxFBR0
+  - first:
+      1: 100144
+    second: Hand Left Ref
+  - first:
+      1: 100146
+    second: Hand Right Ref
+  - first:
+      1: 100148
+    second: hd_anim_bind_jnt
+  - first:
+      1: 100150
+    second: Head Ref
+  - first:
+      1: 100152
+    second: Hero_Glow
+  - first:
+      1: 100154
+    second: jaw_bind_jnt
+  - first:
+      1: 100156
+    second: L_breast_bind_jnt
+  - first:
+      1: 100158
+    second: L_cape_A_01_bind_jnt
+  - first:
+      1: 100160
+    second: L_cape_A_02_bind_jnt
+  - first:
+      1: 100162
+    second: L_cape_A_03_bind_jnt
+  - first:
+      1: 100164
+    second: L_cape_A_04_bind_jnt
+  - first:
+      1: 100166
+    second: L_cheek_02_bind_jnt
+  - first:
+      1: 100168
+    second: L_cheek_03_bind_jnt
+  - first:
+      1: 100170
+    second: L_cheek_bind_jnt
+  - first:
+      1: 100172
+    second: L_ear_bind_jnt
+  - first:
+      1: 100174
+    second: L_eye_bind_jnt
+  - first:
+      1: 100176
+    second: L_hair_A_01_bind_jnt
+  - first:
+      1: 100178
+    second: L_hair_A_02_bind_jnt
+  - first:
+      1: 100180
+    second: L_hair_A_03_bind_jnt
+  - first:
+      1: 100182
+    second: L_hair_A_04_bind_jnt
+  - first:
+      1: 100184
+    second: L_hair_B_01_bind_jnt
+  - first:
+      1: 100186
+    second: L_hair_B_02_bind_jnt
+  - first:
+      1: 100188
+    second: L_hair_B_03_bind_jnt
+  - first:
+      1: 100190
+    second: L_ind_finger_01_bind_jnt
+  - first:
+      1: 100192
+    second: L_ind_finger_02_bind_jnt
+  - first:
+      1: 100194
+    second: L_ind_finger_03_bind_jnt
+  - first:
+      1: 100196
+    second: L_inr_eyebrow_bind_jnt
+  - first:
+      1: 100198
+    second: L_leg_01_bind_jnt
+  - first:
+      1: 100200
+    second: L_leg_02_bind_jnt
+  - first:
+      1: 100202
+    second: L_leg_04_bind_jnt
+  - first:
+      1: 100204
+    second: L_lip_corner_bind_jnt
+  - first:
+      1: 100206
+    second: L_lwr_arm_bind_jnt
+  - first:
+      1: 100208
+    second: L_lwr_arm_twist_01_bind_jnt
+  - first:
+      1: 100210
+    second: L_lwr_arm_twist_02_bind_jnt
+  - first:
+      1: 100212
+    second: L_lwr_eyelid_bind_jnt
+  - first:
+      1: 100214
+    second: L_lwr_lip_01_bind_jnt
+  - first:
+      1: 100216
+    second: L_lwr_lip_02_bind_jnt
+  - first:
+      1: 100218
+    second: L_mid_eyebrow_bind_jnt
+  - first:
+      1: 100220
+    second: L_mid_finger_01_bind_jnt
+  - first:
+      1: 100222
+    second: L_mid_finger_02_bind_jnt
+  - first:
+      1: 100224
+    second: L_mid_finger_03_bind_jnt
+  - first:
+      1: 100226
+    second: L_nostril_bind_jnt
+  - first:
+      1: 100228
+    second: L_otr_eyebrow_02_bind_jnt
+  - first:
+      1: 100230
+    second: L_otr_eyebrow_bind_jnt
+  - first:
+      1: 100232
+    second: L_pauldron_bind_jnt
+  - first:
+      1: 100234
+    second: L_pauldron_feather_bind_jnt
+  - first:
+      1: 100236
+    second: L_pnk_finger_01_bind_jnt
+  - first:
+      1: 100238
+    second: L_pnk_finger_02_bind_jnt
+  - first:
+      1: 100240
+    second: L_pnk_finger_03_bind_jnt
+  - first:
+      1: 100242
+    second: L_rng_finger_01_bind_jnt
+  - first:
+      1: 100244
+    second: L_rng_finger_02_bind_jnt
+  - first:
+      1: 100246
+    second: L_rng_finger_03_bind_jnt
+  - first:
+      1: 100248
+    second: L_shoulder_bind_jnt
+  - first:
+      1: 100250
+    second: L_tmb_01_bind_jnt
+  - first:
+      1: 100252
+    second: L_tmb_02_bind_jnt
+  - first:
+      1: 100254
+    second: L_tmb_03_bind_jnt
+  - first:
+      1: 100256
+    second: L_upr_arm_bind_jnt
+  - first:
+      1: 100258
+    second: L_upr_eyelid_bind_jnt
+  - first:
+      1: 100260
+    second: L_upr_lip_bind_jnt
+  - first:
+      1: 100262
+    second: lwr_teeth_bind_jnt
+  - first:
+      1: 100264
+    second: M_cape_A_01_bind_jnt
+  - first:
+      1: 100266
+    second: M_cape_A_02_bind_jnt
+  - first:
+      1: 100268
+    second: M_cape_A_03_bind_jnt
+  - first:
+      1: 100270
+    second: M_cape_A_04_bind_jnt
+  - first:
+      1: 100272
+    second: M_lwr_lip_bind_jnt
+  - first:
+      1: 100274
+    second: M_upr_lip_bind_jnt
+  - first:
+      1: 100276
+    second: neck_bind_jnt
+  - first:
+      1: 100278
+    second: Node
+  - first:
+      1: 100280
+    second: nose_bind_jnt
+  - first:
+      1: 100282
+    second: Origin Ref
+  - first:
+      1: 100284
+    second: OverHead Ref
+  - first:
+      1: 100286
+    second: pelvis_bind_jnt
+  - first:
+      1: 100288
+    second: PIVOT - arrow_01_bind_jnt
+  - first:
+      1: 100290
+    second: PIVOT - arrow_02_bind_jnt
+  - first:
+      1: 100292
+    second: PIVOT - arrow_03_bind_jnt
+  - first:
+      1: 100294
+    second: PIVOT - arrow_04_bind_jnt
+  - first:
+      1: 100296
+    second: PIVOT - arrow_05_bind_jnt
+  - first:
+      1: 100298
+    second: PIVOT - arrow_bind_jnt
+  - first:
+      1: 100300
+    second: PIVOT - B_KGS_Arm_L
+  - first:
+      1: 100302
+    second: PIVOT - B_KGS_Arm_R
+  - first:
+      1: 100304
+    second: PIVOT - B_KGS_BoxCol_0
+  - first:
+      1: 100306
+    second: PIVOT - B_KGS_Head
+  - first:
+      1: 100308
+    second: PIVOT - B_KGS_Leg_L
+  - first:
+      1: 100310
+    second: PIVOT - B_KGS_Leg_R
+  - first:
+      1: 100312
+    second: PIVOT - B_KGS_Root
+  - first:
+      1: 100314
+    second: PIVOT - B_KGS_Torso
+  - first:
+      1: 100316
+    second: PIVOT - B_KGS_Weapon
+  - first:
+      1: 100318
+    second: PIVOT - bone_chest
+  - first:
+      1: 100320
+    second: PIVOT - bone_hand_left
+  - first:
+      1: 100322
+    second: PIVOT - bone_hand_right
+  - first:
+      1: 100324
+    second: PIVOT - bone_head
+  - first:
+      1: 100326
+    second: PIVOT - bone_leg_left
+  - first:
+      1: 100328
+    second: PIVOT - bone_leg_right
+  - first:
+      1: 100330
+    second: PIVOT - bone_turret
+  - first:
+      1: 100332
+    second: PIVOT - bow_lwr_limb_bind_jnt
+  - first:
+      1: 100334
+    second: PIVOT - bow_upr_limb_bind_jnt
+  - first:
+      1: 100336
+    second: PIVOT - bowstring_bind_jnt
+  - first:
+      1: 100338
+    second: PIVOT - Chest Ref
+  - first:
+      1: 100340
+    second: PIVOT - DarkSmoke
+  - first:
+      1: 100342
+    second: PIVOT - Foot Left Ref
+  - first:
+      1: 100344
+    second: PIVOT - Foot Right Ref
+  - first:
+      1: 100346
+    second: PIVOT - FPTxFBL0
+  - first:
+      1: 100348
+    second: PIVOT - FPTxFBR0
+  - first:
+      1: 100350
+    second: PIVOT - Hand Left Ref
+  - first:
+      1: 100352
+    second: PIVOT - Hand Right Ref
+  - first:
+      1: 100354
+    second: PIVOT - hd_anim_bind_jnt
+  - first:
+      1: 100356
+    second: PIVOT - Head Ref
+  - first:
+      1: 100358
+    second: PIVOT - Hero_Glow
+  - first:
+      1: 100360
+    second: PIVOT - jaw_bind_jnt
+  - first:
+      1: 100362
+    second: PIVOT - L_breast_bind_jnt
+  - first:
+      1: 100364
+    second: PIVOT - L_cape_A_01_bind_jnt
+  - first:
+      1: 100366
+    second: PIVOT - L_cape_A_02_bind_jnt
+  - first:
+      1: 100368
+    second: PIVOT - L_cape_A_03_bind_jnt
+  - first:
+      1: 100370
+    second: PIVOT - L_cape_A_04_bind_jnt
+  - first:
+      1: 100372
+    second: PIVOT - L_cheek_02_bind_jnt
+  - first:
+      1: 100374
+    second: PIVOT - L_cheek_03_bind_jnt
+  - first:
+      1: 100376
+    second: PIVOT - L_cheek_bind_jnt
+  - first:
+      1: 100378
+    second: PIVOT - L_ear_bind_jnt
+  - first:
+      1: 100380
+    second: PIVOT - L_eye_bind_jnt
+  - first:
+      1: 100382
+    second: PIVOT - L_hair_A_01_bind_jnt
+  - first:
+      1: 100384
+    second: PIVOT - L_hair_A_02_bind_jnt
+  - first:
+      1: 100386
+    second: PIVOT - L_hair_A_03_bind_jnt
+  - first:
+      1: 100388
+    second: PIVOT - L_hair_A_04_bind_jnt
+  - first:
+      1: 100390
+    second: PIVOT - L_hair_B_01_bind_jnt
+  - first:
+      1: 100392
+    second: PIVOT - L_hair_B_02_bind_jnt
+  - first:
+      1: 100394
+    second: PIVOT - L_hair_B_03_bind_jnt
+  - first:
+      1: 100396
+    second: PIVOT - L_ind_finger_01_bind_jnt
+  - first:
+      1: 100398
+    second: PIVOT - L_ind_finger_02_bind_jnt
+  - first:
+      1: 100400
+    second: PIVOT - L_ind_finger_03_bind_jnt
+  - first:
+      1: 100402
+    second: PIVOT - L_inr_eyebrow_bind_jnt
+  - first:
+      1: 100404
+    second: PIVOT - L_leg_01_bind_jnt
+  - first:
+      1: 100406
+    second: PIVOT - L_leg_02_bind_jnt
+  - first:
+      1: 100408
+    second: PIVOT - L_leg_04_bind_jnt
+  - first:
+      1: 100410
+    second: PIVOT - L_lip_corner_bind_jnt
+  - first:
+      1: 100412
+    second: PIVOT - L_lwr_arm_bind_jnt
+  - first:
+      1: 100414
+    second: PIVOT - L_lwr_arm_twist_01_bind_jnt
+  - first:
+      1: 100416
+    second: PIVOT - L_lwr_arm_twist_02_bind_jnt
+  - first:
+      1: 100418
+    second: PIVOT - L_lwr_eyelid_bind_jnt
+  - first:
+      1: 100420
+    second: PIVOT - L_lwr_lip_01_bind_jnt
+  - first:
+      1: 100422
+    second: PIVOT - L_lwr_lip_02_bind_jnt
+  - first:
+      1: 100424
+    second: PIVOT - L_mid_eyebrow_bind_jnt
+  - first:
+      1: 100426
+    second: PIVOT - L_mid_finger_01_bind_jnt
+  - first:
+      1: 100428
+    second: PIVOT - L_mid_finger_02_bind_jnt
+  - first:
+      1: 100430
+    second: PIVOT - L_mid_finger_03_bind_jnt
+  - first:
+      1: 100432
+    second: PIVOT - L_nostril_bind_jnt
+  - first:
+      1: 100434
+    second: PIVOT - L_otr_eyebrow_02_bind_jnt
+  - first:
+      1: 100436
+    second: PIVOT - L_otr_eyebrow_bind_jnt
+  - first:
+      1: 100438
+    second: PIVOT - L_pauldron_bind_jnt
+  - first:
+      1: 100440
+    second: PIVOT - L_pauldron_feather_bind_jnt
+  - first:
+      1: 100442
+    second: PIVOT - L_pnk_finger_01_bind_jnt
+  - first:
+      1: 100444
+    second: PIVOT - L_pnk_finger_02_bind_jnt
+  - first:
+      1: 100446
+    second: PIVOT - L_pnk_finger_03_bind_jnt
+  - first:
+      1: 100448
+    second: PIVOT - L_rng_finger_01_bind_jnt
+  - first:
+      1: 100450
+    second: PIVOT - L_rng_finger_02_bind_jnt
+  - first:
+      1: 100452
+    second: PIVOT - L_rng_finger_03_bind_jnt
+  - first:
+      1: 100454
+    second: PIVOT - L_shoulder_bind_jnt
+  - first:
+      1: 100456
+    second: PIVOT - L_tmb_01_bind_jnt
+  - first:
+      1: 100458
+    second: PIVOT - L_tmb_02_bind_jnt
+  - first:
+      1: 100460
+    second: PIVOT - L_tmb_03_bind_jnt
+  - first:
+      1: 100462
+    second: PIVOT - L_upr_arm_bind_jnt
+  - first:
+      1: 100464
+    second: PIVOT - L_upr_eyelid_bind_jnt
+  - first:
+      1: 100466
+    second: PIVOT - L_upr_lip_bind_jnt
+  - first:
+      1: 100468
+    second: PIVOT - lwr_teeth_bind_jnt
+  - first:
+      1: 100470
+    second: PIVOT - M_cape_A_01_bind_jnt
+  - first:
+      1: 100472
+    second: PIVOT - M_cape_A_02_bind_jnt
+  - first:
+      1: 100474
+    second: PIVOT - M_cape_A_03_bind_jnt
+  - first:
+      1: 100476
+    second: PIVOT - M_cape_A_04_bind_jnt
+  - first:
+      1: 100478
+    second: PIVOT - M_lwr_lip_bind_jnt
+  - first:
+      1: 100480
+    second: PIVOT - M_upr_lip_bind_jnt
+  - first:
+      1: 100482
+    second: PIVOT - neck_bind_jnt
+  - first:
+      1: 100484
+    second: PIVOT - nose_bind_jnt
+  - first:
+      1: 100486
+    second: PIVOT - Origin Ref
+  - first:
+      1: 100488
+    second: PIVOT - OverHead Ref
+  - first:
+      1: 100490
+    second: PIVOT - pelvis_bind_jnt
+  - first:
+      1: 100492
+    second: PIVOT - quiver_bind_jnt
+  - first:
+      1: 100494
+    second: PIVOT - R_breast_bind_jnt
+  - first:
+      1: 100496
+    second: PIVOT - R_cape_A_01_bind_jnt
+  - first:
+      1: 100498
+    second: PIVOT - R_cape_A_02_bind_jnt
+  - first:
+      1: 100500
+    second: PIVOT - R_cape_A_03_bind_jnt
+  - first:
+      1: 100502
+    second: PIVOT - R_cape_A_04_bind_jnt
+  - first:
+      1: 100504
+    second: PIVOT - R_cheek_02_bind_jnt
+  - first:
+      1: 100506
+    second: PIVOT - R_cheek_03_bind_jnt
+  - first:
+      1: 100508
+    second: PIVOT - R_cheek_bind_jnt
+  - first:
+      1: 100510
+    second: PIVOT - R_ear_bind_jnt
+  - first:
+      1: 100512
+    second: PIVOT - R_eye_bind_jnt
+  - first:
+      1: 100514
+    second: PIVOT - R_hair_A_01_bind_jnt
+  - first:
+      1: 100516
+    second: PIVOT - R_hair_A_02_bind_jnt
+  - first:
+      1: 100518
+    second: PIVOT - R_hair_A_03_bind_jnt
+  - first:
+      1: 100520
+    second: PIVOT - R_hair_A_04_bind_jnt
+  - first:
+      1: 100522
+    second: PIVOT - R_hair_B_01_bind_jnt
+  - first:
+      1: 100524
+    second: PIVOT - R_hair_B_02_bind_jnt
+  - first:
+      1: 100526
+    second: PIVOT - R_hair_B_03_bind_jnt
+  - first:
+      1: 100528
+    second: PIVOT - R_ind_finger_01_bind_jnt
+  - first:
+      1: 100530
+    second: PIVOT - R_ind_finger_02_bind_jnt
+  - first:
+      1: 100532
+    second: PIVOT - R_ind_finger_03_bind_jnt
+  - first:
+      1: 100534
+    second: PIVOT - R_inr_eyebrow_bind_jnt
+  - first:
+      1: 100536
+    second: PIVOT - R_leg_01_bind_jnt
+  - first:
+      1: 100538
+    second: PIVOT - R_leg_02_bind_jnt
+  - first:
+      1: 100540
+    second: PIVOT - R_leg_04_bind_jnt
+  - first:
+      1: 100542
+    second: PIVOT - R_lip_corner_bind_jnt
+  - first:
+      1: 100544
+    second: PIVOT - R_lwr_arm_bind_jnt
+  - first:
+      1: 100546
+    second: PIVOT - R_lwr_arm_twist_01_bind_jnt
+  - first:
+      1: 100548
+    second: PIVOT - R_lwr_arm_twist_02_bind_jnt
+  - first:
+      1: 100550
+    second: PIVOT - R_lwr_eyelid_bind_jnt
+  - first:
+      1: 100552
+    second: PIVOT - R_lwr_lip_01_bind_jnt
+  - first:
+      1: 100554
+    second: PIVOT - R_lwr_lip_02_bind_jnt
+  - first:
+      1: 100556
+    second: PIVOT - R_mid_eyebrow_bind_jnt
+  - first:
+      1: 100558
+    second: PIVOT - R_mid_finger_01_bind_jnt
+  - first:
+      1: 100560
+    second: PIVOT - R_mid_finger_02_bind_jnt
+  - first:
+      1: 100562
+    second: PIVOT - R_mid_finger_03_bind_jnt
+  - first:
+      1: 100564
+    second: PIVOT - R_nostril_bind_jnt
+  - first:
+      1: 100566
+    second: PIVOT - R_otr_eyebrow_02_bind_jnt
+  - first:
+      1: 100568
+    second: PIVOT - R_otr_eyebrow_bind_jnt
+  - first:
+      1: 100570
+    second: PIVOT - R_pauldron_bind_jnt
+  - first:
+      1: 100572
+    second: PIVOT - R_pauldron_feather_bind_jnt
+  - first:
+      1: 100574
+    second: PIVOT - R_pnk_finger_01_bind_jnt
+  - first:
+      1: 100576
+    second: PIVOT - R_pnk_finger_02_bind_jnt
+  - first:
+      1: 100578
+    second: PIVOT - R_pnk_finger_03_bind_jnt
+  - first:
+      1: 100580
+    second: PIVOT - R_rng_finger_01_bind_jnt
+  - first:
+      1: 100582
+    second: PIVOT - R_rng_finger_02_bind_jnt
+  - first:
+      1: 100584
+    second: PIVOT - R_rng_finger_03_bind_jnt
+  - first:
+      1: 100586
+    second: PIVOT - R_shoulder_bind_jnt
+  - first:
+      1: 100588
+    second: PIVOT - R_tmb_01_bind_jnt
+  - first:
+      1: 100590
+    second: PIVOT - R_tmb_02_bind_jnt
+  - first:
+      1: 100592
+    second: PIVOT - R_tmb_03_bind_jnt
+  - first:
+      1: 100594
+    second: PIVOT - R_upr_arm_bind_jnt
+  - first:
+      1: 100596
+    second: PIVOT - R_upr_eyelid_bind_jnt
+  - first:
+      1: 100598
+    second: PIVOT - R_upr_lip_bind_jnt
+  - first:
+      1: 100600
+    second: PIVOT - SNDXDDKR
+  - first:
+      1: 100602
+    second: PIVOT - SNDXDDSH
+  - first:
+      1: 100604
+    second: PIVOT - spine_02_bind_jnt
+  - first:
+      1: 100606
+    second: PIVOT - SPLxEBL3
+  - first:
+      1: 100608
+    second: PIVOT - SPLxEBS0
+  - first:
+      1: 100610
+    second: PIVOT - SPLxEBS2
+  - first:
+      1: 100612
+    second: PIVOT - SPLyEBS0
+  - first:
+      1: 100614
+    second: PIVOT - SPNxNBAR
+  - first:
+      1: 100616
+    second: PIVOT - tongue_01_bind_jnt
+  - first:
+      1: 100618
+    second: PIVOT - tongue_02_bind_jnt
+  - first:
+      1: 100620
+    second: PIVOT - upr_teeth_bind_jnt
+  - first:
+      1: 100622
+    second: PIVOT - Weapon Ref
+  - first:
+      1: 100624
+    second: PIVOT - weapon_bind_jnt
+  - first:
+      1: 100626
+    second: Portrait_Camera.Target.1
+  - first:
+      1: 100628
+    second: Portrait_Camera1
+  - first:
+      1: 100630
+    second: quiver_bind_jnt
+  - first:
+      1: 100632
+    second: R_breast_bind_jnt
+  - first:
+      1: 100634
+    second: R_cape_A_01_bind_jnt
+  - first:
+      1: 100636
+    second: R_cape_A_02_bind_jnt
+  - first:
+      1: 100638
+    second: R_cape_A_03_bind_jnt
+  - first:
+      1: 100640
+    second: R_cape_A_04_bind_jnt
+  - first:
+      1: 100642
+    second: R_cheek_02_bind_jnt
+  - first:
+      1: 100644
+    second: R_cheek_03_bind_jnt
+  - first:
+      1: 100646
+    second: R_cheek_bind_jnt
+  - first:
+      1: 100648
+    second: R_ear_bind_jnt
+  - first:
+      1: 100650
+    second: R_eye_bind_jnt
+  - first:
+      1: 100652
+    second: R_hair_A_01_bind_jnt
+  - first:
+      1: 100654
+    second: R_hair_A_02_bind_jnt
+  - first:
+      1: 100656
+    second: R_hair_A_03_bind_jnt
+  - first:
+      1: 100658
+    second: R_hair_A_04_bind_jnt
+  - first:
+      1: 100660
+    second: R_hair_B_01_bind_jnt
+  - first:
+      1: 100662
+    second: R_hair_B_02_bind_jnt
+  - first:
+      1: 100664
+    second: R_hair_B_03_bind_jnt
+  - first:
+      1: 100666
+    second: R_ind_finger_01_bind_jnt
+  - first:
+      1: 100668
+    second: R_ind_finger_02_bind_jnt
+  - first:
+      1: 100670
+    second: R_ind_finger_03_bind_jnt
+  - first:
+      1: 100672
+    second: R_inr_eyebrow_bind_jnt
+  - first:
+      1: 100674
+    second: R_leg_01_bind_jnt
+  - first:
+      1: 100676
+    second: R_leg_02_bind_jnt
+  - first:
+      1: 100678
+    second: R_leg_04_bind_jnt
+  - first:
+      1: 100680
+    second: R_lip_corner_bind_jnt
+  - first:
+      1: 100682
+    second: R_lwr_arm_bind_jnt
+  - first:
+      1: 100684
+    second: R_lwr_arm_twist_01_bind_jnt
+  - first:
+      1: 100686
+    second: R_lwr_arm_twist_02_bind_jnt
+  - first:
+      1: 100688
+    second: R_lwr_eyelid_bind_jnt
+  - first:
+      1: 100690
+    second: R_lwr_lip_01_bind_jnt
+  - first:
+      1: 100692
+    second: R_lwr_lip_02_bind_jnt
+  - first:
+      1: 100694
+    second: R_mid_eyebrow_bind_jnt
+  - first:
+      1: 100696
+    second: R_mid_finger_01_bind_jnt
+  - first:
+      1: 100698
+    second: R_mid_finger_02_bind_jnt
+  - first:
+      1: 100700
+    second: R_mid_finger_03_bind_jnt
+  - first:
+      1: 100702
+    second: R_nostril_bind_jnt
+  - first:
+      1: 100704
+    second: R_otr_eyebrow_02_bind_jnt
+  - first:
+      1: 100706
+    second: R_otr_eyebrow_bind_jnt
+  - first:
+      1: 100708
+    second: R_pauldron_bind_jnt
+  - first:
+      1: 100710
+    second: R_pauldron_feather_bind_jnt
+  - first:
+      1: 100712
+    second: R_pnk_finger_01_bind_jnt
+  - first:
+      1: 100714
+    second: R_pnk_finger_02_bind_jnt
+  - first:
+      1: 100716
+    second: R_pnk_finger_03_bind_jnt
+  - first:
+      1: 100718
+    second: R_rng_finger_01_bind_jnt
+  - first:
+      1: 100720
+    second: R_rng_finger_02_bind_jnt
+  - first:
+      1: 100722
+    second: R_rng_finger_03_bind_jnt
+  - first:
+      1: 100724
+    second: R_shoulder_bind_jnt
+  - first:
+      1: 100726
+    second: R_tmb_01_bind_jnt
+  - first:
+      1: 100728
+    second: R_tmb_02_bind_jnt
+  - first:
+      1: 100730
+    second: R_tmb_03_bind_jnt
+  - first:
+      1: 100732
+    second: R_upr_arm_bind_jnt
+  - first:
+      1: 100734
+    second: R_upr_eyelid_bind_jnt
+  - first:
+      1: 100736
+    second: R_upr_lip_bind_jnt
+  - first:
+      1: 100738
+    second: SNDXDDKR
+  - first:
+      1: 100740
+    second: SNDXDDSH
+  - first:
+      1: 100742
+    second: spine_02_bind_jnt
+  - first:
+      1: 100744
+    second: SPLxEBL3
+  - first:
+      1: 100746
+    second: SPLxEBS0
+  - first:
+      1: 100748
+    second: SPLxEBS2
+  - first:
+      1: 100750
+    second: SPLyEBS0
+  - first:
+      1: 100752
+    second: SPNxNBAR
+  - first:
+      1: 100754
+    second: tongue_01_bind_jnt
+  - first:
+      1: 100756
+    second: tongue_02_bind_jnt
+  - first:
+      1: 100758
+    second: upr_teeth_bind_jnt
+  - first:
+      1: 100760
+    second: Weapon Ref
+  - first:
+      1: 100762
+    second: weapon_bind_jnt
+  - first:
+      4: 400000
+    second: 10_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      4: 400002
+    second: 11_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      4: 400004
+    second: 12_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      4: 400006
+    second: 13_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      4: 400008
+    second: 14_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      4: 400010
+    second: 15_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      4: 400012
+    second: 16_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      4: 400014
+    second: 17_undead_evilSylvanas_righair_geo_LOD1
+  - first:
+      4: 400016
+    second: 18_undead_evilSylvanas_righair_geo_LOD2
+  - first:
+      4: 400018
+    second: 19_undead_evilSylvanas_righair_geo_LOD3
+  - first:
+      4: 400020
+    second: 1_undead_evilSylvanas_rig:main_geo
+  - first:
+      4: 400022
+    second: 20_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      4: 400024
+    second: 21_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      4: 400026
+    second: 22_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      4: 400028
+    second: 23_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      4: 400030
+    second: 24_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      4: 400032
+    second: 25_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      4: 400034
+    second: 26_undead_evilSylvanas_rigweapon_geo_LOD1
+  - first:
+      4: 400036
+    second: 27_undead_evilSylvanas_rigweapon_geo_LOD2
+  - first:
+      4: 400038
+    second: 28_undead_evilSylvanas_rigweapon_geo_LOD3
+  - first:
+      4: 400040
+    second: 29_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      4: 400042
+    second: 2_undead_evilSylvanas_rig:main_geo
+  - first:
+      4: 400044
+    second: 30_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      4: 400046
+    second: 31_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      4: 400048
+    second: 32_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      4: 400050
+    second: 33_undead_evilSylvanas_rigquiver_geo_LOD3
+  - first:
+      4: 400052
+    second: 34_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      4: 400054
+    second: 35_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      4: 400056
+    second: 36_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      4: 400058
+    second: 37_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      4: 400060
+    second: 38_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      4: 400062
+    second: 39_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      4: 400064
+    second: 3_undead_evilSylvanas_rig:hair_geo
+  - first:
+      4: 400066
+    second: 4_undead_evilSylvanas_rig:cape_geo
+  - first:
+      4: 400068
+    second: 5_undead_evilSylvanas_rig:cape_geo
+  - first:
+      4: 400070
+    second: 6_undead_evilSylvanas_rig:weapon_geo
+  - first:
+      4: 400072
+    second: 7_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      4: 400074
+    second: 8_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      4: 400076
+    second: 9_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      4: 400078
+    second: arrow_01_bind_jnt
+  - first:
+      4: 400080
+    second: arrow_02_bind_jnt
+  - first:
+      4: 400082
+    second: arrow_03_bind_jnt
+  - first:
+      4: 400084
+    second: arrow_04_bind_jnt
+  - first:
+      4: 400086
+    second: arrow_05_bind_jnt
+  - first:
+      4: 400088
+    second: arrow_bind_jnt
+  - first:
+      4: 400090
+    second: B_KGS_Arm_L
+  - first:
+      4: 400092
+    second: B_KGS_Arm_R
+  - first:
+      4: 400094
+    second: B_KGS_BoxCol_0
+  - first:
+      4: 400096
+    second: B_KGS_Head
+  - first:
+      4: 400098
+    second: B_KGS_Leg_L
+  - first:
+      4: 400100
+    second: B_KGS_Leg_R
+  - first:
+      4: 400102
+    second: B_KGS_Root
+  - first:
+      4: 400104
+    second: B_KGS_Torso
+  - first:
+      4: 400106
+    second: B_KGS_Weapon
+  - first:
+      4: 400108
+    second: bone_chest
+  - first:
+      4: 400110
+    second: bone_hand_left
+  - first:
+      4: 400112
+    second: bone_hand_right
+  - first:
+      4: 400114
+    second: bone_head
+  - first:
+      4: 400116
+    second: bone_leg_left
+  - first:
+      4: 400118
+    second: bone_leg_right
+  - first:
+      4: 400120
+    second: bone_turret
+  - first:
+      4: 400122
+    second: bow_lwr_limb_bind_jnt
+  - first:
+      4: 400124
+    second: bow_upr_limb_bind_jnt
+  - first:
+      4: 400126
+    second: bowstring_bind_jnt
+  - first:
+      4: 400128
+    second: Chest Ref
+  - first:
+      4: 400130
+    second: DarkSmoke
+  - first:
+      4: 400132
+    second: EvilSylvanas
+  - first:
+      4: 400134
+    second: //RootNode
+  - first:
+      4: 400136
+    second: Foot Left Ref
+  - first:
+      4: 400138
+    second: Foot Right Ref
+  - first:
+      4: 400140
+    second: FPTxFBL0
+  - first:
+      4: 400142
+    second: FPTxFBR0
+  - first:
+      4: 400144
+    second: Hand Left Ref
+  - first:
+      4: 400146
+    second: Hand Right Ref
+  - first:
+      4: 400148
+    second: hd_anim_bind_jnt
+  - first:
+      4: 400150
+    second: Head Ref
+  - first:
+      4: 400152
+    second: Hero_Glow
+  - first:
+      4: 400154
+    second: jaw_bind_jnt
+  - first:
+      4: 400156
+    second: L_breast_bind_jnt
+  - first:
+      4: 400158
+    second: L_cape_A_01_bind_jnt
+  - first:
+      4: 400160
+    second: L_cape_A_02_bind_jnt
+  - first:
+      4: 400162
+    second: L_cape_A_03_bind_jnt
+  - first:
+      4: 400164
+    second: L_cape_A_04_bind_jnt
+  - first:
+      4: 400166
+    second: L_cheek_02_bind_jnt
+  - first:
+      4: 400168
+    second: L_cheek_03_bind_jnt
+  - first:
+      4: 400170
+    second: L_cheek_bind_jnt
+  - first:
+      4: 400172
+    second: L_ear_bind_jnt
+  - first:
+      4: 400174
+    second: L_eye_bind_jnt
+  - first:
+      4: 400176
+    second: L_hair_A_01_bind_jnt
+  - first:
+      4: 400178
+    second: L_hair_A_02_bind_jnt
+  - first:
+      4: 400180
+    second: L_hair_A_03_bind_jnt
+  - first:
+      4: 400182
+    second: L_hair_A_04_bind_jnt
+  - first:
+      4: 400184
+    second: L_hair_B_01_bind_jnt
+  - first:
+      4: 400186
+    second: L_hair_B_02_bind_jnt
+  - first:
+      4: 400188
+    second: L_hair_B_03_bind_jnt
+  - first:
+      4: 400190
+    second: L_ind_finger_01_bind_jnt
+  - first:
+      4: 400192
+    second: L_ind_finger_02_bind_jnt
+  - first:
+      4: 400194
+    second: L_ind_finger_03_bind_jnt
+  - first:
+      4: 400196
+    second: L_inr_eyebrow_bind_jnt
+  - first:
+      4: 400198
+    second: L_leg_01_bind_jnt
+  - first:
+      4: 400200
+    second: L_leg_02_bind_jnt
+  - first:
+      4: 400202
+    second: L_leg_04_bind_jnt
+  - first:
+      4: 400204
+    second: L_lip_corner_bind_jnt
+  - first:
+      4: 400206
+    second: L_lwr_arm_bind_jnt
+  - first:
+      4: 400208
+    second: L_lwr_arm_twist_01_bind_jnt
+  - first:
+      4: 400210
+    second: L_lwr_arm_twist_02_bind_jnt
+  - first:
+      4: 400212
+    second: L_lwr_eyelid_bind_jnt
+  - first:
+      4: 400214
+    second: L_lwr_lip_01_bind_jnt
+  - first:
+      4: 400216
+    second: L_lwr_lip_02_bind_jnt
+  - first:
+      4: 400218
+    second: L_mid_eyebrow_bind_jnt
+  - first:
+      4: 400220
+    second: L_mid_finger_01_bind_jnt
+  - first:
+      4: 400222
+    second: L_mid_finger_02_bind_jnt
+  - first:
+      4: 400224
+    second: L_mid_finger_03_bind_jnt
+  - first:
+      4: 400226
+    second: L_nostril_bind_jnt
+  - first:
+      4: 400228
+    second: L_otr_eyebrow_02_bind_jnt
+  - first:
+      4: 400230
+    second: L_otr_eyebrow_bind_jnt
+  - first:
+      4: 400232
+    second: L_pauldron_bind_jnt
+  - first:
+      4: 400234
+    second: L_pauldron_feather_bind_jnt
+  - first:
+      4: 400236
+    second: L_pnk_finger_01_bind_jnt
+  - first:
+      4: 400238
+    second: L_pnk_finger_02_bind_jnt
+  - first:
+      4: 400240
+    second: L_pnk_finger_03_bind_jnt
+  - first:
+      4: 400242
+    second: L_rng_finger_01_bind_jnt
+  - first:
+      4: 400244
+    second: L_rng_finger_02_bind_jnt
+  - first:
+      4: 400246
+    second: L_rng_finger_03_bind_jnt
+  - first:
+      4: 400248
+    second: L_shoulder_bind_jnt
+  - first:
+      4: 400250
+    second: L_tmb_01_bind_jnt
+  - first:
+      4: 400252
+    second: L_tmb_02_bind_jnt
+  - first:
+      4: 400254
+    second: L_tmb_03_bind_jnt
+  - first:
+      4: 400256
+    second: L_upr_arm_bind_jnt
+  - first:
+      4: 400258
+    second: L_upr_eyelid_bind_jnt
+  - first:
+      4: 400260
+    second: L_upr_lip_bind_jnt
+  - first:
+      4: 400262
+    second: lwr_teeth_bind_jnt
+  - first:
+      4: 400264
+    second: M_cape_A_01_bind_jnt
+  - first:
+      4: 400266
+    second: M_cape_A_02_bind_jnt
+  - first:
+      4: 400268
+    second: M_cape_A_03_bind_jnt
+  - first:
+      4: 400270
+    second: M_cape_A_04_bind_jnt
+  - first:
+      4: 400272
+    second: M_lwr_lip_bind_jnt
+  - first:
+      4: 400274
+    second: M_upr_lip_bind_jnt
+  - first:
+      4: 400276
+    second: neck_bind_jnt
+  - first:
+      4: 400278
+    second: Node
+  - first:
+      4: 400280
+    second: nose_bind_jnt
+  - first:
+      4: 400282
+    second: Origin Ref
+  - first:
+      4: 400284
+    second: OverHead Ref
+  - first:
+      4: 400286
+    second: pelvis_bind_jnt
+  - first:
+      4: 400288
+    second: PIVOT - arrow_01_bind_jnt
+  - first:
+      4: 400290
+    second: PIVOT - arrow_02_bind_jnt
+  - first:
+      4: 400292
+    second: PIVOT - arrow_03_bind_jnt
+  - first:
+      4: 400294
+    second: PIVOT - arrow_04_bind_jnt
+  - first:
+      4: 400296
+    second: PIVOT - arrow_05_bind_jnt
+  - first:
+      4: 400298
+    second: PIVOT - arrow_bind_jnt
+  - first:
+      4: 400300
+    second: PIVOT - B_KGS_Arm_L
+  - first:
+      4: 400302
+    second: PIVOT - B_KGS_Arm_R
+  - first:
+      4: 400304
+    second: PIVOT - B_KGS_BoxCol_0
+  - first:
+      4: 400306
+    second: PIVOT - B_KGS_Head
+  - first:
+      4: 400308
+    second: PIVOT - B_KGS_Leg_L
+  - first:
+      4: 400310
+    second: PIVOT - B_KGS_Leg_R
+  - first:
+      4: 400312
+    second: PIVOT - B_KGS_Root
+  - first:
+      4: 400314
+    second: PIVOT - B_KGS_Torso
+  - first:
+      4: 400316
+    second: PIVOT - B_KGS_Weapon
+  - first:
+      4: 400318
+    second: PIVOT - bone_chest
+  - first:
+      4: 400320
+    second: PIVOT - bone_hand_left
+  - first:
+      4: 400322
+    second: PIVOT - bone_hand_right
+  - first:
+      4: 400324
+    second: PIVOT - bone_head
+  - first:
+      4: 400326
+    second: PIVOT - bone_leg_left
+  - first:
+      4: 400328
+    second: PIVOT - bone_leg_right
+  - first:
+      4: 400330
+    second: PIVOT - bone_turret
+  - first:
+      4: 400332
+    second: PIVOT - bow_lwr_limb_bind_jnt
+  - first:
+      4: 400334
+    second: PIVOT - bow_upr_limb_bind_jnt
+  - first:
+      4: 400336
+    second: PIVOT - bowstring_bind_jnt
+  - first:
+      4: 400338
+    second: PIVOT - Chest Ref
+  - first:
+      4: 400340
+    second: PIVOT - DarkSmoke
+  - first:
+      4: 400342
+    second: PIVOT - Foot Left Ref
+  - first:
+      4: 400344
+    second: PIVOT - Foot Right Ref
+  - first:
+      4: 400346
+    second: PIVOT - FPTxFBL0
+  - first:
+      4: 400348
+    second: PIVOT - FPTxFBR0
+  - first:
+      4: 400350
+    second: PIVOT - Hand Left Ref
+  - first:
+      4: 400352
+    second: PIVOT - Hand Right Ref
+  - first:
+      4: 400354
+    second: PIVOT - hd_anim_bind_jnt
+  - first:
+      4: 400356
+    second: PIVOT - Head Ref
+  - first:
+      4: 400358
+    second: PIVOT - Hero_Glow
+  - first:
+      4: 400360
+    second: PIVOT - jaw_bind_jnt
+  - first:
+      4: 400362
+    second: PIVOT - L_breast_bind_jnt
+  - first:
+      4: 400364
+    second: PIVOT - L_cape_A_01_bind_jnt
+  - first:
+      4: 400366
+    second: PIVOT - L_cape_A_02_bind_jnt
+  - first:
+      4: 400368
+    second: PIVOT - L_cape_A_03_bind_jnt
+  - first:
+      4: 400370
+    second: PIVOT - L_cape_A_04_bind_jnt
+  - first:
+      4: 400372
+    second: PIVOT - L_cheek_02_bind_jnt
+  - first:
+      4: 400374
+    second: PIVOT - L_cheek_03_bind_jnt
+  - first:
+      4: 400376
+    second: PIVOT - L_cheek_bind_jnt
+  - first:
+      4: 400378
+    second: PIVOT - L_ear_bind_jnt
+  - first:
+      4: 400380
+    second: PIVOT - L_eye_bind_jnt
+  - first:
+      4: 400382
+    second: PIVOT - L_hair_A_01_bind_jnt
+  - first:
+      4: 400384
+    second: PIVOT - L_hair_A_02_bind_jnt
+  - first:
+      4: 400386
+    second: PIVOT - L_hair_A_03_bind_jnt
+  - first:
+      4: 400388
+    second: PIVOT - L_hair_A_04_bind_jnt
+  - first:
+      4: 400390
+    second: PIVOT - L_hair_B_01_bind_jnt
+  - first:
+      4: 400392
+    second: PIVOT - L_hair_B_02_bind_jnt
+  - first:
+      4: 400394
+    second: PIVOT - L_hair_B_03_bind_jnt
+  - first:
+      4: 400396
+    second: PIVOT - L_ind_finger_01_bind_jnt
+  - first:
+      4: 400398
+    second: PIVOT - L_ind_finger_02_bind_jnt
+  - first:
+      4: 400400
+    second: PIVOT - L_ind_finger_03_bind_jnt
+  - first:
+      4: 400402
+    second: PIVOT - L_inr_eyebrow_bind_jnt
+  - first:
+      4: 400404
+    second: PIVOT - L_leg_01_bind_jnt
+  - first:
+      4: 400406
+    second: PIVOT - L_leg_02_bind_jnt
+  - first:
+      4: 400408
+    second: PIVOT - L_leg_04_bind_jnt
+  - first:
+      4: 400410
+    second: PIVOT - L_lip_corner_bind_jnt
+  - first:
+      4: 400412
+    second: PIVOT - L_lwr_arm_bind_jnt
+  - first:
+      4: 400414
+    second: PIVOT - L_lwr_arm_twist_01_bind_jnt
+  - first:
+      4: 400416
+    second: PIVOT - L_lwr_arm_twist_02_bind_jnt
+  - first:
+      4: 400418
+    second: PIVOT - L_lwr_eyelid_bind_jnt
+  - first:
+      4: 400420
+    second: PIVOT - L_lwr_lip_01_bind_jnt
+  - first:
+      4: 400422
+    second: PIVOT - L_lwr_lip_02_bind_jnt
+  - first:
+      4: 400424
+    second: PIVOT - L_mid_eyebrow_bind_jnt
+  - first:
+      4: 400426
+    second: PIVOT - L_mid_finger_01_bind_jnt
+  - first:
+      4: 400428
+    second: PIVOT - L_mid_finger_02_bind_jnt
+  - first:
+      4: 400430
+    second: PIVOT - L_mid_finger_03_bind_jnt
+  - first:
+      4: 400432
+    second: PIVOT - L_nostril_bind_jnt
+  - first:
+      4: 400434
+    second: PIVOT - L_otr_eyebrow_02_bind_jnt
+  - first:
+      4: 400436
+    second: PIVOT - L_otr_eyebrow_bind_jnt
+  - first:
+      4: 400438
+    second: PIVOT - L_pauldron_bind_jnt
+  - first:
+      4: 400440
+    second: PIVOT - L_pauldron_feather_bind_jnt
+  - first:
+      4: 400442
+    second: PIVOT - L_pnk_finger_01_bind_jnt
+  - first:
+      4: 400444
+    second: PIVOT - L_pnk_finger_02_bind_jnt
+  - first:
+      4: 400446
+    second: PIVOT - L_pnk_finger_03_bind_jnt
+  - first:
+      4: 400448
+    second: PIVOT - L_rng_finger_01_bind_jnt
+  - first:
+      4: 400450
+    second: PIVOT - L_rng_finger_02_bind_jnt
+  - first:
+      4: 400452
+    second: PIVOT - L_rng_finger_03_bind_jnt
+  - first:
+      4: 400454
+    second: PIVOT - L_shoulder_bind_jnt
+  - first:
+      4: 400456
+    second: PIVOT - L_tmb_01_bind_jnt
+  - first:
+      4: 400458
+    second: PIVOT - L_tmb_02_bind_jnt
+  - first:
+      4: 400460
+    second: PIVOT - L_tmb_03_bind_jnt
+  - first:
+      4: 400462
+    second: PIVOT - L_upr_arm_bind_jnt
+  - first:
+      4: 400464
+    second: PIVOT - L_upr_eyelid_bind_jnt
+  - first:
+      4: 400466
+    second: PIVOT - L_upr_lip_bind_jnt
+  - first:
+      4: 400468
+    second: PIVOT - lwr_teeth_bind_jnt
+  - first:
+      4: 400470
+    second: PIVOT - M_cape_A_01_bind_jnt
+  - first:
+      4: 400472
+    second: PIVOT - M_cape_A_02_bind_jnt
+  - first:
+      4: 400474
+    second: PIVOT - M_cape_A_03_bind_jnt
+  - first:
+      4: 400476
+    second: PIVOT - M_cape_A_04_bind_jnt
+  - first:
+      4: 400478
+    second: PIVOT - M_lwr_lip_bind_jnt
+  - first:
+      4: 400480
+    second: PIVOT - M_upr_lip_bind_jnt
+  - first:
+      4: 400482
+    second: PIVOT - neck_bind_jnt
+  - first:
+      4: 400484
+    second: PIVOT - nose_bind_jnt
+  - first:
+      4: 400486
+    second: PIVOT - Origin Ref
+  - first:
+      4: 400488
+    second: PIVOT - OverHead Ref
+  - first:
+      4: 400490
+    second: PIVOT - pelvis_bind_jnt
+  - first:
+      4: 400492
+    second: PIVOT - quiver_bind_jnt
+  - first:
+      4: 400494
+    second: PIVOT - R_breast_bind_jnt
+  - first:
+      4: 400496
+    second: PIVOT - R_cape_A_01_bind_jnt
+  - first:
+      4: 400498
+    second: PIVOT - R_cape_A_02_bind_jnt
+  - first:
+      4: 400500
+    second: PIVOT - R_cape_A_03_bind_jnt
+  - first:
+      4: 400502
+    second: PIVOT - R_cape_A_04_bind_jnt
+  - first:
+      4: 400504
+    second: PIVOT - R_cheek_02_bind_jnt
+  - first:
+      4: 400506
+    second: PIVOT - R_cheek_03_bind_jnt
+  - first:
+      4: 400508
+    second: PIVOT - R_cheek_bind_jnt
+  - first:
+      4: 400510
+    second: PIVOT - R_ear_bind_jnt
+  - first:
+      4: 400512
+    second: PIVOT - R_eye_bind_jnt
+  - first:
+      4: 400514
+    second: PIVOT - R_hair_A_01_bind_jnt
+  - first:
+      4: 400516
+    second: PIVOT - R_hair_A_02_bind_jnt
+  - first:
+      4: 400518
+    second: PIVOT - R_hair_A_03_bind_jnt
+  - first:
+      4: 400520
+    second: PIVOT - R_hair_A_04_bind_jnt
+  - first:
+      4: 400522
+    second: PIVOT - R_hair_B_01_bind_jnt
+  - first:
+      4: 400524
+    second: PIVOT - R_hair_B_02_bind_jnt
+  - first:
+      4: 400526
+    second: PIVOT - R_hair_B_03_bind_jnt
+  - first:
+      4: 400528
+    second: PIVOT - R_ind_finger_01_bind_jnt
+  - first:
+      4: 400530
+    second: PIVOT - R_ind_finger_02_bind_jnt
+  - first:
+      4: 400532
+    second: PIVOT - R_ind_finger_03_bind_jnt
+  - first:
+      4: 400534
+    second: PIVOT - R_inr_eyebrow_bind_jnt
+  - first:
+      4: 400536
+    second: PIVOT - R_leg_01_bind_jnt
+  - first:
+      4: 400538
+    second: PIVOT - R_leg_02_bind_jnt
+  - first:
+      4: 400540
+    second: PIVOT - R_leg_04_bind_jnt
+  - first:
+      4: 400542
+    second: PIVOT - R_lip_corner_bind_jnt
+  - first:
+      4: 400544
+    second: PIVOT - R_lwr_arm_bind_jnt
+  - first:
+      4: 400546
+    second: PIVOT - R_lwr_arm_twist_01_bind_jnt
+  - first:
+      4: 400548
+    second: PIVOT - R_lwr_arm_twist_02_bind_jnt
+  - first:
+      4: 400550
+    second: PIVOT - R_lwr_eyelid_bind_jnt
+  - first:
+      4: 400552
+    second: PIVOT - R_lwr_lip_01_bind_jnt
+  - first:
+      4: 400554
+    second: PIVOT - R_lwr_lip_02_bind_jnt
+  - first:
+      4: 400556
+    second: PIVOT - R_mid_eyebrow_bind_jnt
+  - first:
+      4: 400558
+    second: PIVOT - R_mid_finger_01_bind_jnt
+  - first:
+      4: 400560
+    second: PIVOT - R_mid_finger_02_bind_jnt
+  - first:
+      4: 400562
+    second: PIVOT - R_mid_finger_03_bind_jnt
+  - first:
+      4: 400564
+    second: PIVOT - R_nostril_bind_jnt
+  - first:
+      4: 400566
+    second: PIVOT - R_otr_eyebrow_02_bind_jnt
+  - first:
+      4: 400568
+    second: PIVOT - R_otr_eyebrow_bind_jnt
+  - first:
+      4: 400570
+    second: PIVOT - R_pauldron_bind_jnt
+  - first:
+      4: 400572
+    second: PIVOT - R_pauldron_feather_bind_jnt
+  - first:
+      4: 400574
+    second: PIVOT - R_pnk_finger_01_bind_jnt
+  - first:
+      4: 400576
+    second: PIVOT - R_pnk_finger_02_bind_jnt
+  - first:
+      4: 400578
+    second: PIVOT - R_pnk_finger_03_bind_jnt
+  - first:
+      4: 400580
+    second: PIVOT - R_rng_finger_01_bind_jnt
+  - first:
+      4: 400582
+    second: PIVOT - R_rng_finger_02_bind_jnt
+  - first:
+      4: 400584
+    second: PIVOT - R_rng_finger_03_bind_jnt
+  - first:
+      4: 400586
+    second: PIVOT - R_shoulder_bind_jnt
+  - first:
+      4: 400588
+    second: PIVOT - R_tmb_01_bind_jnt
+  - first:
+      4: 400590
+    second: PIVOT - R_tmb_02_bind_jnt
+  - first:
+      4: 400592
+    second: PIVOT - R_tmb_03_bind_jnt
+  - first:
+      4: 400594
+    second: PIVOT - R_upr_arm_bind_jnt
+  - first:
+      4: 400596
+    second: PIVOT - R_upr_eyelid_bind_jnt
+  - first:
+      4: 400598
+    second: PIVOT - R_upr_lip_bind_jnt
+  - first:
+      4: 400600
+    second: PIVOT - SNDXDDKR
+  - first:
+      4: 400602
+    second: PIVOT - SNDXDDSH
+  - first:
+      4: 400604
+    second: PIVOT - spine_02_bind_jnt
+  - first:
+      4: 400606
+    second: PIVOT - SPLxEBL3
+  - first:
+      4: 400608
+    second: PIVOT - SPLxEBS0
+  - first:
+      4: 400610
+    second: PIVOT - SPLxEBS2
+  - first:
+      4: 400612
+    second: PIVOT - SPLyEBS0
+  - first:
+      4: 400614
+    second: PIVOT - SPNxNBAR
+  - first:
+      4: 400616
+    second: PIVOT - tongue_01_bind_jnt
+  - first:
+      4: 400618
+    second: PIVOT - tongue_02_bind_jnt
+  - first:
+      4: 400620
+    second: PIVOT - upr_teeth_bind_jnt
+  - first:
+      4: 400622
+    second: PIVOT - Weapon Ref
+  - first:
+      4: 400624
+    second: PIVOT - weapon_bind_jnt
+  - first:
+      4: 400626
+    second: Portrait_Camera.Target.1
+  - first:
+      4: 400628
+    second: Portrait_Camera1
+  - first:
+      4: 400630
+    second: quiver_bind_jnt
+  - first:
+      4: 400632
+    second: R_breast_bind_jnt
+  - first:
+      4: 400634
+    second: R_cape_A_01_bind_jnt
+  - first:
+      4: 400636
+    second: R_cape_A_02_bind_jnt
+  - first:
+      4: 400638
+    second: R_cape_A_03_bind_jnt
+  - first:
+      4: 400640
+    second: R_cape_A_04_bind_jnt
+  - first:
+      4: 400642
+    second: R_cheek_02_bind_jnt
+  - first:
+      4: 400644
+    second: R_cheek_03_bind_jnt
+  - first:
+      4: 400646
+    second: R_cheek_bind_jnt
+  - first:
+      4: 400648
+    second: R_ear_bind_jnt
+  - first:
+      4: 400650
+    second: R_eye_bind_jnt
+  - first:
+      4: 400652
+    second: R_hair_A_01_bind_jnt
+  - first:
+      4: 400654
+    second: R_hair_A_02_bind_jnt
+  - first:
+      4: 400656
+    second: R_hair_A_03_bind_jnt
+  - first:
+      4: 400658
+    second: R_hair_A_04_bind_jnt
+  - first:
+      4: 400660
+    second: R_hair_B_01_bind_jnt
+  - first:
+      4: 400662
+    second: R_hair_B_02_bind_jnt
+  - first:
+      4: 400664
+    second: R_hair_B_03_bind_jnt
+  - first:
+      4: 400666
+    second: R_ind_finger_01_bind_jnt
+  - first:
+      4: 400668
+    second: R_ind_finger_02_bind_jnt
+  - first:
+      4: 400670
+    second: R_ind_finger_03_bind_jnt
+  - first:
+      4: 400672
+    second: R_inr_eyebrow_bind_jnt
+  - first:
+      4: 400674
+    second: R_leg_01_bind_jnt
+  - first:
+      4: 400676
+    second: R_leg_02_bind_jnt
+  - first:
+      4: 400678
+    second: R_leg_04_bind_jnt
+  - first:
+      4: 400680
+    second: R_lip_corner_bind_jnt
+  - first:
+      4: 400682
+    second: R_lwr_arm_bind_jnt
+  - first:
+      4: 400684
+    second: R_lwr_arm_twist_01_bind_jnt
+  - first:
+      4: 400686
+    second: R_lwr_arm_twist_02_bind_jnt
+  - first:
+      4: 400688
+    second: R_lwr_eyelid_bind_jnt
+  - first:
+      4: 400690
+    second: R_lwr_lip_01_bind_jnt
+  - first:
+      4: 400692
+    second: R_lwr_lip_02_bind_jnt
+  - first:
+      4: 400694
+    second: R_mid_eyebrow_bind_jnt
+  - first:
+      4: 400696
+    second: R_mid_finger_01_bind_jnt
+  - first:
+      4: 400698
+    second: R_mid_finger_02_bind_jnt
+  - first:
+      4: 400700
+    second: R_mid_finger_03_bind_jnt
+  - first:
+      4: 400702
+    second: R_nostril_bind_jnt
+  - first:
+      4: 400704
+    second: R_otr_eyebrow_02_bind_jnt
+  - first:
+      4: 400706
+    second: R_otr_eyebrow_bind_jnt
+  - first:
+      4: 400708
+    second: R_pauldron_bind_jnt
+  - first:
+      4: 400710
+    second: R_pauldron_feather_bind_jnt
+  - first:
+      4: 400712
+    second: R_pnk_finger_01_bind_jnt
+  - first:
+      4: 400714
+    second: R_pnk_finger_02_bind_jnt
+  - first:
+      4: 400716
+    second: R_pnk_finger_03_bind_jnt
+  - first:
+      4: 400718
+    second: R_rng_finger_01_bind_jnt
+  - first:
+      4: 400720
+    second: R_rng_finger_02_bind_jnt
+  - first:
+      4: 400722
+    second: R_rng_finger_03_bind_jnt
+  - first:
+      4: 400724
+    second: R_shoulder_bind_jnt
+  - first:
+      4: 400726
+    second: R_tmb_01_bind_jnt
+  - first:
+      4: 400728
+    second: R_tmb_02_bind_jnt
+  - first:
+      4: 400730
+    second: R_tmb_03_bind_jnt
+  - first:
+      4: 400732
+    second: R_upr_arm_bind_jnt
+  - first:
+      4: 400734
+    second: R_upr_eyelid_bind_jnt
+  - first:
+      4: 400736
+    second: R_upr_lip_bind_jnt
+  - first:
+      4: 400738
+    second: SNDXDDKR
+  - first:
+      4: 400740
+    second: SNDXDDSH
+  - first:
+      4: 400742
+    second: spine_02_bind_jnt
+  - first:
+      4: 400744
+    second: SPLxEBL3
+  - first:
+      4: 400746
+    second: SPLxEBS0
+  - first:
+      4: 400748
+    second: SPLxEBS2
+  - first:
+      4: 400750
+    second: SPLyEBS0
+  - first:
+      4: 400752
+    second: SPNxNBAR
+  - first:
+      4: 400754
+    second: tongue_01_bind_jnt
+  - first:
+      4: 400756
+    second: tongue_02_bind_jnt
+  - first:
+      4: 400758
+    second: upr_teeth_bind_jnt
+  - first:
+      4: 400760
+    second: Weapon Ref
+  - first:
+      4: 400762
+    second: weapon_bind_jnt
+  - first:
+      20: 2000000
+    second: Portrait_Camera1
+  - first:
+      21: 2100000
+    second: No Name
+  - first:
+      23: 2300000
+    second: B_KGS_Arm_L
+  - first:
+      23: 2300002
+    second: B_KGS_Arm_R
+  - first:
+      23: 2300004
+    second: B_KGS_BoxCol_0
+  - first:
+      23: 2300006
+    second: B_KGS_Head
+  - first:
+      23: 2300008
+    second: B_KGS_Leg_L
+  - first:
+      23: 2300010
+    second: B_KGS_Leg_R
+  - first:
+      23: 2300012
+    second: B_KGS_Root
+  - first:
+      23: 2300014
+    second: B_KGS_Torso
+  - first:
+      23: 2300016
+    second: B_KGS_Weapon
+  - first:
+      33: 3300000
+    second: B_KGS_Arm_L
+  - first:
+      33: 3300002
+    second: B_KGS_Arm_R
+  - first:
+      33: 3300004
+    second: B_KGS_BoxCol_0
+  - first:
+      33: 3300006
+    second: B_KGS_Head
+  - first:
+      33: 3300008
+    second: B_KGS_Leg_L
+  - first:
+      33: 3300010
+    second: B_KGS_Leg_R
+  - first:
+      33: 3300012
+    second: B_KGS_Root
+  - first:
+      33: 3300014
+    second: B_KGS_Torso
+  - first:
+      33: 3300016
+    second: B_KGS_Weapon
+  - first:
+      43: 4300000
+    second: 1_undead_evilSylvanas_rig:main_geo
+  - first:
+      43: 4300002
+    second: 2_undead_evilSylvanas_rig:main_geo
+  - first:
+      43: 4300004
+    second: 3_undead_evilSylvanas_rig:hair_geo
+  - first:
+      43: 4300006
+    second: 4_undead_evilSylvanas_rig:cape_geo
+  - first:
+      43: 4300008
+    second: 5_undead_evilSylvanas_rig:cape_geo
+  - first:
+      43: 4300010
+    second: 6_undead_evilSylvanas_rig:weapon_geo
+  - first:
+      43: 4300012
+    second: 7_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      43: 4300014
+    second: 8_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      43: 4300016
+    second: 9_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      43: 4300018
+    second: 10_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      43: 4300020
+    second: 11_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      43: 4300022
+    second: 12_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      43: 4300024
+    second: 13_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      43: 4300026
+    second: 14_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      43: 4300028
+    second: 15_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      43: 4300030
+    second: 16_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      43: 4300032
+    second: 17_undead_evilSylvanas_righair_geo_LOD1
+  - first:
+      43: 4300034
+    second: 18_undead_evilSylvanas_righair_geo_LOD2
+  - first:
+      43: 4300036
+    second: 19_undead_evilSylvanas_righair_geo_LOD3
+  - first:
+      43: 4300038
+    second: 20_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      43: 4300040
+    second: 21_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      43: 4300042
+    second: 22_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      43: 4300044
+    second: 23_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      43: 4300046
+    second: 24_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      43: 4300048
+    second: 25_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      43: 4300050
+    second: 26_undead_evilSylvanas_rigweapon_geo_LOD1
+  - first:
+      43: 4300052
+    second: 27_undead_evilSylvanas_rigweapon_geo_LOD2
+  - first:
+      43: 4300054
+    second: 28_undead_evilSylvanas_rigweapon_geo_LOD3
+  - first:
+      43: 4300056
+    second: 29_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      43: 4300058
+    second: 30_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      43: 4300060
+    second: 31_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      43: 4300062
+    second: 32_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      43: 4300064
+    second: 33_undead_evilSylvanas_rigquiver_geo_LOD3
+  - first:
+      43: 4300066
+    second: 34_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      43: 4300068
+    second: 35_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      43: 4300070
+    second: 36_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      43: 4300072
+    second: 37_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      43: 4300074
+    second: 38_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      43: 4300076
+    second: 39_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      43: 4300078
+    second: B_KGS_Torso
+  - first:
+      43: 4300080
+    second: B_KGS_Head
+  - first:
+      43: 4300082
+    second: B_KGS_Arm_L
+  - first:
+      43: 4300084
+    second: B_KGS_Arm_R
+  - first:
+      43: 4300086
+    second: B_KGS_Leg_L
+  - first:
+      43: 4300088
+    second: B_KGS_Leg_R
+  - first:
+      43: 4300090
+    second: B_KGS_Root
+  - first:
+      43: 4300092
+    second: B_KGS_Weapon
+  - first:
+      43: 4300094
+    second: B_KGS_BoxCol_0
+  - first:
+      74: 7400000
+    second: Stand 1
+  - first:
+      74: 7400002
+    second: Spell 1
+  - first:
+      74: 7400004
+    second: Death 1
+  - first:
+      74: 7400006
+    second: Attack 1
+  - first:
+      74: 7400008
+    second: Attack 2
+  - first:
+      74: 7400010
+    second: Walk 1
+  - first:
+      74: 7400012
+    second: Stand Ready 1
+  - first:
+      74: 7400014
+    second: Dissipate
+  - first:
+      74: 7400016
+    second: Cinematic Agree one
+  - first:
+      74: 7400018
+    second: Cinematic Angry One
+  - first:
+      74: 7400020
+    second: Cinematic Frustrated One
+  - first:
+      74: 7400022
+    second: Cinematic Headnod One
+  - first:
+      74: 7400024
+    second: Cinematic Headshake One
+  - first:
+      74: 7400026
+    second: Cinematic Listening One
+  - first:
+      74: 7400028
+    second: Cinematic Monstrosity one
+  - first:
+      74: 7400030
+    second: Cinematic Shrug One
+  - first:
+      74: 7400032
+    second: Cinematic Standard One
+  - first:
+      74: 7400034
+    second: Cinematic Wave One
+  - first:
+      74: 7400036
+    second: Cinematic Walk One
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: 10_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      137: 13700002
+    second: 11_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      137: 13700004
+    second: 12_undead_evilSylvanas_rigmain_geo_LOD1
+  - first:
+      137: 13700006
+    second: 13_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      137: 13700008
+    second: 14_undead_evilSylvanas_rigmain_geo_LOD2
+  - first:
+      137: 13700010
+    second: 15_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      137: 13700012
+    second: 16_undead_evilSylvanas_rigmain_geo_LOD3
+  - first:
+      137: 13700014
+    second: 17_undead_evilSylvanas_righair_geo_LOD1
+  - first:
+      137: 13700016
+    second: 18_undead_evilSylvanas_righair_geo_LOD2
+  - first:
+      137: 13700018
+    second: 19_undead_evilSylvanas_righair_geo_LOD3
+  - first:
+      137: 13700020
+    second: 1_undead_evilSylvanas_rig:main_geo
+  - first:
+      137: 13700022
+    second: 20_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      137: 13700024
+    second: 21_undead_evilSylvanas_rigcape_geo_LOD1
+  - first:
+      137: 13700026
+    second: 22_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      137: 13700028
+    second: 23_undead_evilSylvanas_rigcape_geo_LOD2
+  - first:
+      137: 13700030
+    second: 24_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      137: 13700032
+    second: 25_undead_evilSylvanas_rigcape_geo_LOD3
+  - first:
+      137: 13700034
+    second: 26_undead_evilSylvanas_rigweapon_geo_LOD1
+  - first:
+      137: 13700036
+    second: 27_undead_evilSylvanas_rigweapon_geo_LOD2
+  - first:
+      137: 13700038
+    second: 28_undead_evilSylvanas_rigweapon_geo_LOD3
+  - first:
+      137: 13700040
+    second: 29_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      137: 13700042
+    second: 2_undead_evilSylvanas_rig:main_geo
+  - first:
+      137: 13700044
+    second: 30_undead_evilSylvanas_rigquiver_geo_LOD1
+  - first:
+      137: 13700046
+    second: 31_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      137: 13700048
+    second: 32_undead_evilSylvanas_rigquiver_geo_LOD2
+  - first:
+      137: 13700050
+    second: 33_undead_evilSylvanas_rigquiver_geo_LOD3
+  - first:
+      137: 13700052
+    second: 34_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      137: 13700054
+    second: 35_undead_evilSylvanas_rigarrow_geo_LOD1
+  - first:
+      137: 13700056
+    second: 36_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      137: 13700058
+    second: 37_undead_evilSylvanas_rigarrow_geo_LOD2
+  - first:
+      137: 13700060
+    second: 38_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      137: 13700062
+    second: 39_undead_evilSylvanas_rigarrow_geo_LOD3
+  - first:
+      137: 13700064
+    second: 3_undead_evilSylvanas_rig:hair_geo
+  - first:
+      137: 13700066
+    second: 4_undead_evilSylvanas_rig:cape_geo
+  - first:
+      137: 13700068
+    second: 5_undead_evilSylvanas_rig:cape_geo
+  - first:
+      137: 13700070
+    second: 6_undead_evilSylvanas_rig:weapon_geo
+  - first:
+      137: 13700072
+    second: 7_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      137: 13700074
+    second: 8_undead_evilSylvanas_rig:quiver_geo
+  - first:
+      137: 13700076
+    second: 9_undead_evilSylvanas_rig:arrow_geo
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  - first:
+      1183024399: 6000828045688606266
+    second: Portrait_Camera1
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand 1
+      takeName: 
+      internalID: 0
+      firstFrame: 10
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell 1
+      takeName: 
+      internalID: 0
+      firstFrame: 51
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death 1
+      takeName: 
+      internalID: 0
+      firstFrame: 82
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack 1
+      takeName: 
+      internalID: 0
+      firstFrame: 180
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack 2
+      takeName: 
+      internalID: 0
+      firstFrame: 221
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk 1
+      takeName: 
+      internalID: 0
+      firstFrame: 262
+      lastFrame: 284
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Ready 1
+      takeName: 
+      internalID: 0
+      firstFrame: 285
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dissipate
+      takeName: 
+      internalID: 0
+      firstFrame: 336
+      lastFrame: 396
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Agree one
+      takeName: 
+      internalID: 0
+      firstFrame: 397
+      lastFrame: 456
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Angry One
+      takeName: 
+      internalID: 0
+      firstFrame: 457
+      lastFrame: 656
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Frustrated One
+      takeName: 
+      internalID: 0
+      firstFrame: 657
+      lastFrame: 716
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Headnod One
+      takeName: 
+      internalID: 0
+      firstFrame: 717
+      lastFrame: 776
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Headshake One
+      takeName: 
+      internalID: 0
+      firstFrame: 777
+      lastFrame: 836
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Listening One
+      takeName: 
+      internalID: 0
+      firstFrame: 837
+      lastFrame: 896
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Monstrosity one
+      takeName: 
+      internalID: 0
+      firstFrame: 897
+      lastFrame: 1066
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Shrug One
+      takeName: 
+      internalID: 0
+      firstFrame: 1067
+      lastFrame: 1126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Standard One
+      takeName: 
+      internalID: 0
+      firstFrame: 1127
+      lastFrame: 1326
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Wave One
+      takeName: 
+      internalID: 0
+      firstFrame: 1327
+      lastFrame: 1386
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Walk One
+      takeName: 
+      internalID: 0
+      firstFrame: 1387
+      lastFrame: 1417
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: evilsylvanas(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1_undead_evilSylvanas_rig:main_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 2_undead_evilSylvanas_rig:main_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3_undead_evilSylvanas_rig:hair_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 4_undead_evilSylvanas_rig:cape_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 5_undead_evilSylvanas_rig:cape_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 6_undead_evilSylvanas_rig:weapon_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7_undead_evilSylvanas_rig:quiver_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8_undead_evilSylvanas_rig:quiver_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 9_undead_evilSylvanas_rig:arrow_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 10_undead_evilSylvanas_rig:arrow_geo
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 11_undead_evilSylvanas_rigmain_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 12_undead_evilSylvanas_rigmain_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 13_undead_evilSylvanas_rigmain_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 14_undead_evilSylvanas_rigmain_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 15_undead_evilSylvanas_rigmain_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 16_undead_evilSylvanas_rigmain_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 17_undead_evilSylvanas_righair_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 18_undead_evilSylvanas_righair_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 19_undead_evilSylvanas_righair_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 20_undead_evilSylvanas_rigcape_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 21_undead_evilSylvanas_rigcape_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22_undead_evilSylvanas_rigcape_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 23_undead_evilSylvanas_rigcape_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 24_undead_evilSylvanas_rigcape_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 25_undead_evilSylvanas_rigcape_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 26_undead_evilSylvanas_rigweapon_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 27_undead_evilSylvanas_rigweapon_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 28_undead_evilSylvanas_rigweapon_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 29_undead_evilSylvanas_rigquiver_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 30_undead_evilSylvanas_rigquiver_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 31_undead_evilSylvanas_rigquiver_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 32_undead_evilSylvanas_rigquiver_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 33_undead_evilSylvanas_rigquiver_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 34_undead_evilSylvanas_rigarrow_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 35_undead_evilSylvanas_rigarrow_geo_LOD1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 36_undead_evilSylvanas_rigarrow_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 37_undead_evilSylvanas_rigarrow_geo_LOD2
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 38_undead_evilSylvanas_rigarrow_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 39_undead_evilSylvanas_rigarrow_geo_LOD3
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EvilSylvanas
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Origin Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: OverHead Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 2.52736, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPNxNBAR
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Torso
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.049599998, y: 1.4573339, z: 0}
+      rotation: {x: 0.34125036, y: -0.5959518, z: 0.6975291, w: 0.20455548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Head
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.9919161, z: 0}
+      rotation: {x: 0.76745415, y: -0.32060385, z: 0.32060364, w: 0.4532556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Arm_L
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.95772, z: -0.19916}
+      rotation: {x: -0.6170273, y: 0.15662567, z: -0.15662573, w: 0.7551252}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Arm_R
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.95772, z: 0.19916}
+      rotation: {x: -0.79834914, y: -0.16939954, z: 0.16939944, w: 0.55249095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Leg_L
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.343094, z: -0.128712}
+      rotation: {x: -0.6691345, y: 0.104937024, z: -0.102740176, w: 0.72848594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Leg_R
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.343094, z: 0.128712}
+      rotation: {x: -0.76419854, y: -0.12036661, z: 0.115143694, w: 0.62310064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Root
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.4573339, z: 0}
+      rotation: {x: -0.7238095, y: -0.011700329, z: 0.011700379, w: 0.68980145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_Weapon
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.060491998, y: 1.058918, z: -0.865942}
+      rotation: {x: 0.39127675, y: 0.664067, z: -0.63401926, w: 0.06274662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B_KGS_BoxCol_0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.188712, y: 1.9221979, z: -0.01026}
+      rotation: {x: -0.6211426, y: -0.08622748, z: 0.08622747, w: 0.77415216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SNDXDDKR
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FPTxFBL0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.02302, y: 0, z: -0.077878}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FPTxFBR0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.02306, y: 0, z: 0.077961996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPLxEBS0
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.22019199, y: 0, z: -0.126672}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPLxEBL3
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.229442, y: 0, z: 0.24368799}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPLxEBS2
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.404548, y: 0, z: 0.165344}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPLyEBS0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.0047, y: 0, z: -0.047983997}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SNDXDDSH
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Node
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Portrait_Camera.Target.1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.59999996, y: 2.2073598, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Portrait_Camera1
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.79999995, y: 2.2073598, z: 0}
+      rotation: {x: -3.061617e-17, y: -1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_turret
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.4573339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - spine_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.5773339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_chest
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.6973339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - neck_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.9919161, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - hd_anim_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 2.1873598, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - jaw_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.032112, y: 2.18624, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_shoulder_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.98407, z: -0.033872}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_upr_arm_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.95772, z: -0.19916}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lwr_arm_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039275996, y: 1.690872, z: -0.452388}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lwr_arm_twist_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.012934, y: 1.563294, z: -0.573456}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lwr_arm_twist_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013408001, y: 1.4357159, z: -0.694524}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_hand_left
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013408001, y: 1.4357159, z: -0.694524}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_tmb_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.052101996, y: 1.404732, z: -0.70385396}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_tmb_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.092544, y: 1.3577279, z: -0.710268}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_tmb_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.117426, y: 1.324428, z: -0.71585196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_ind_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.073396, y: 1.314712, z: -0.77419597}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_ind_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.08402799, y: 1.276354, z: -0.799414}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_ind_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.091646, y: 1.2441, z: -0.808554}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_mid_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.042425998, y: 1.31235, z: -0.77192}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_mid_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.046584, y: 1.265392, z: -0.79903996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_mid_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.051999997, y: 1.2254, z: -0.807942}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_rng_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013982, y: 1.3043699, z: -0.75872}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_rng_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013242, y: 1.2568699, z: -0.782126}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_rng_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.016322, y: 1.2251159, z: -0.7851899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_pnk_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.011751999, y: 1.2982581, z: -0.745336}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_pnk_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.014853999, y: 1.258656, z: -0.763276}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_pnk_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.013979999, y: 1.231444, z: -0.76444995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_shoulder_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.98407, z: 0.033872}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_upr_arm_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.95772, z: 0.19916}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lwr_arm_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.690872, z: 0.452388}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lwr_arm_twist_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.012934, y: 1.563294, z: 0.573456}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lwr_arm_twist_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013408001, y: 1.4357159, z: 0.69452596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_hand_right
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013408001, y: 1.4357139, z: 0.694524}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_tmb_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.0521, y: 1.404732, z: 0.70385396}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_tmb_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.092544, y: 1.3577279, z: 0.710268}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_tmb_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.117426, y: 1.324428, z: 0.71585196}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_ind_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.073396, y: 1.314712, z: 0.77419597}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_ind_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.08402799, y: 1.276354, z: 0.799414}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_ind_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.091646, y: 1.2441, z: 0.808554}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_mid_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.042424, y: 1.31235, z: 0.77192}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_mid_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.046584, y: 1.265392, z: 0.79903996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_mid_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.051999997, y: 1.2254, z: 0.807942}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_rng_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013982, y: 1.3043699, z: 0.75872}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_rng_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013242, y: 1.2568699, z: 0.782128}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_rng_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.016322, y: 1.2251159, z: 0.7851899}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_pnk_finger_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.011751999, y: 1.2982581, z: 0.745336}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_pnk_finger_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.014853999, y: 1.258656, z: 0.763276}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_pnk_finger_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.013979999, y: 1.231444, z: 0.76444995}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - pelvis_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.4573339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_leg_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.343094, z: -0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_leg_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0.74731797, z: -0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_leg_left
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.087988004, y: 0.17402999, z: -0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_leg_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.074002, y: 0.028299998, z: -0.13886599}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_leg_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.343094, z: 0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_leg_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0.74731797, z: 0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_leg_right
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.087988004, y: 0.17402999, z: 0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_leg_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.074002, y: 0.028299998, z: 0.13886599}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_breast_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.09962, y: 1.82121, z: -0.107824}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_breast_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.09962, y: 1.82121, z: 0.107824}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_inr_eyebrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.119522, y: 2.24272, z: -0.015764}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_mid_eyebrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.11356399, y: 2.25896, z: -0.048972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_otr_eyebrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.093306, y: 2.2542, z: -0.066076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_inr_eyebrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.119522, y: 2.24272, z: 0.015764}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_mid_eyebrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.11356399, y: 2.25896, z: 0.048972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_otr_eyebrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.093306, y: 2.2542, z: 0.066076}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_upr_eyelid_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.109483995, y: 2.2342598, z: -0.041079998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lwr_eyelid_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.109483995, y: 2.2342598, z: -0.041079998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_upr_eyelid_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.109483995, y: 2.2342598, z: 0.041079998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lwr_eyelid_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.109483995, y: 2.2342598, z: 0.041079998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_eye_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.109483995, y: 2.2342598, z: -0.041079998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_eye_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.109483995, y: 2.2342598, z: 0.041079998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_ear_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.016396, y: 2.25686, z: -0.112044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_ear_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.016396, y: 2.25686, z: 0.112044}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - nose_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.137086, y: 2.18762, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_nostril_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.147122, y: 2.1878998, z: -0.012036}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_nostril_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.147122, y: 2.1878998, z: 0.012036}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cheek_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.105802, y: 2.20798, z: -0.043347996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cheek_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.123123996, y: 2.1982, z: -0.027541999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cheek_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.08452, y: 2.14906, z: -0.026184}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cheek_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.105802, y: 2.20798, z: 0.043347996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cheek_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.123123996, y: 2.1982, z: 0.027541999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cheek_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.08452, y: 2.14906, z: 0.026184}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_upr_lip_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.137214, y: 2.15232, z: -0.016206}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - M_upr_lip_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.140666, y: 2.1527, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_upr_lip_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.137214, y: 2.15232, z: 0.016206}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - upr_teeth_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.134254, y: 2.1503398, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - tongue_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.044439998, y: 2.14308, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - tongue_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.099892, y: 2.14308, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - lwr_teeth_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.134242, y: 2.14364, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lip_corner_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.120547995, y: 2.14662, z: -0.026972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lwr_lip_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.131742, y: 2.14222, z: -0.018717999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_lwr_lip_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.13758999, y: 2.14064, z: -0.010341999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - M_lwr_lip_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.138352, y: 2.13944, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lwr_lip_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.13758999, y: 2.14064, z: 0.010341999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lwr_lip_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.131742, y: 2.14222, z: 0.018717999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_lip_corner_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.120547995, y: 2.14662, z: 0.026972}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bone_head
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 2.1873598, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_A_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.050157998, y: 2.0806, z: -0.091588}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_A_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.087514, y: 2.02274, z: -0.068796}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_A_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.120394, y: 1.970004, z: -0.083018}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_A_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.146172, y: 1.926996, z: -0.125858}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_B_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.102184, y: 2.24062, z: -0.078264}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_B_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.08913999, y: 2.16708, z: -0.0818}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_hair_B_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.085472, y: 2.0929601, z: -0.07718}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_A_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.045194, y: 2.0902998, z: 0.082298}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_A_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.076192, y: 2.01564, z: 0.067534}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_A_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.079619996, y: 1.956064, z: 0.107939996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_A_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.15764, y: 1.9290899, z: 0.093692}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_B_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.099332, y: 2.24524, z: 0.079204}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_B_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.082634, y: 2.1597, z: 0.079204}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_hair_B_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.08757399, y: 2.0973198, z: 0.074864}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_otr_eyebrow_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.16493, y: 2.27216, z: -0.10458999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_otr_eyebrow_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.16493, y: 2.27216, z: 0.10458999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_pauldron_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.03817, y: 2.01658, z: -0.166562}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_pauldron_feather_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.03817, y: 1.8609419, z: -0.349526}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_pauldron_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.03817, y: 2.01658, z: 0.16656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_pauldron_feather_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.03817, y: 1.8767059, z: 0.36183998}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cape_A_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.12765999, y: 1.922848, z: -0.226448}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cape_A_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.16586201, y: 1.634964, z: -0.31391197}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cape_A_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.18464, y: 1.286814, z: -0.406986}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - L_cape_A_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.181882, y: 1.01066, z: -0.486996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - M_cape_A_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.188712, y: 1.9221979, z: -0.01026}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - M_cape_A_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.233696, y: 1.59686, z: -0.01026}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - M_cape_A_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.294926, y: 1.285036, z: -0.01026}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - M_cape_A_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.309284, y: 0.91823995, z: 0.0010299999}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cape_A_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.141982, y: 1.8899139, z: 0.236198}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cape_A_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.19668399, y: 1.605446, z: 0.31201798}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cape_A_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.21226199, y: 1.337424, z: 0.386758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - R_cape_A_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.211896, y: 1.026284, z: 0.488316}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - weapon_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.046589997, y: 1.27379, z: -0.72012}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bow_lwr_limb_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.272102, y: 1.1317819, z: -0.70373195}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bow_upr_limb_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.37886798, y: 1.2847059, z: -0.827228}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - bowstring_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.017682, y: 1.552754, z: -0.527066}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - quiver_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.318416, y: 1.953422, z: 0.126922}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - arrow_01_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.277038, y: 1.579822, z: 0.09156}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - arrow_02_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.27614, y: 1.5880119, z: 0.159382}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - arrow_03_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.281854, y: 1.6151739, z: 0.162536}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - arrow_04_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.27601, y: 1.656824, z: 0.191684}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - arrow_05_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.33747, y: 1.579986, z: 0.108596}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - arrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.041872, y: 1.289366, z: -0.725698}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Head Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 2.1873598, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Hand Left Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013408001, y: 1.4357159, z: -0.694524}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Hand Right Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.013408001, y: 1.4357139, z: 0.694524}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Chest Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.6973339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Foot Left Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.087988004, y: 0.17402999, z: -0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Foot Right Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.087988004, y: 0.17402999, z: 0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Weapon Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.546586, y: 1.391248, z: -0.81497395}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Origin Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - OverHead Ref
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 2.52736, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SPNxNBAR
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - DarkSmoke
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - Hero_Glow
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SNDXDDKR
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - FPTxFBL0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.02302, y: 0, z: -0.077878}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - FPTxFBR0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.02306, y: 0, z: 0.077961996}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SPLxEBS0
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.22019199, y: 0, z: -0.126672}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SPLxEBL3
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.229442, y: 0, z: 0.24368799}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SPLxEBS2
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.404548, y: 0, z: 0.165344}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SPLyEBS0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.0047, y: 0, z: -0.047983997}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - SNDXDDSH
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Torso
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.049599998, y: 1.4573339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Head
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.9919161, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Arm_L
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.95772, z: -0.19916}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Arm_R
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.039274, y: 1.95772, z: 0.19916}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Leg_L
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.343094, z: -0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Leg_R
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 1.343094, z: 0.128712}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Root
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.4573339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_Weapon
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.060491998, y: 1.058918, z: -0.865942}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PIVOT - B_KGS_BoxCol_0
+      parentName: evilsylvanas(Clone)
+      position: {x: 0.188712, y: 1.9221979, z: -0.01026}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DarkSmoke
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hero_Glow
+      parentName: evilsylvanas(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: weapon_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.0465906, y: 1.27379, z: -0.72012}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon Ref
+      parentName: weapon_bind_jnt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bow_lwr_limb_bind_jnt
+      parentName: weapon_bind_jnt
+      position: {x: 0.3186926, y: -0.01638794, z: -0.1420079}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bow_upr_limb_bind_jnt
+      parentName: weapon_bind_jnt
+      position: {x: -0.33227736, y: 0.107108, z: 0.010915984}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bowstring_bind_jnt
+      parentName: weapon_bind_jnt
+      position: {x: 0.028909558, y: -0.19305393, z: 0.27896392}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.0418728, y: 1.289366, z: -0.725698}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis_bind_jnt
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.4573339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_01_bind_jnt
+      parentName: pelvis_bind_jnt
+      position: {x: 0.04, y: 0.12871279, z: -0.114239804}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_02_bind_jnt
+      parentName: L_leg_01_bind_jnt
+      position: {x: -0, y: 0, z: -0.5957762}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_leg_left
+      parentName: L_leg_02_bind_jnt
+      position: {x: 0.08798819, y: 0, z: -0.57328695}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot Left Ref
+      parentName: bone_leg_left
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_leg_04_bind_jnt
+      parentName: bone_leg_left
+      position: {x: -0.1619902, y: 0.010153008, z: -0.14573179}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_01_bind_jnt
+      parentName: pelvis_bind_jnt
+      position: {x: 0.04, y: -0.12871279, z: -0.114239804}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_02_bind_jnt
+      parentName: R_leg_01_bind_jnt
+      position: {x: -0, y: 0, z: -0.5957762}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_leg_right
+      parentName: R_leg_02_bind_jnt
+      position: {x: 0.08798819, y: 0, z: -0.57328695}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot Right Ref
+      parentName: bone_leg_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_leg_04_bind_jnt
+      parentName: bone_leg_right
+      position: {x: -0.1619902, y: -0.010153008, z: -0.14573179}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_turret
+      parentName: evilsylvanas(Clone)
+      position: {x: -0.04, y: 1.4573339, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine_02_bind_jnt
+      parentName: bone_turret
+      position: {x: -0, y: 0, z: 0.12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_chest
+      parentName: spine_02_bind_jnt
+      position: {x: -0, y: 0, z: 0.12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chest Ref
+      parentName: bone_chest
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: quiver_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.358416, y: -0.12692219, z: 0.25608796}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow_04_bind_jnt
+      parentName: quiver_bind_jnt
+      position: {x: -0.042405967, y: -0.06476181, z: -0.2965979}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow_02_bind_jnt
+      parentName: quiver_bind_jnt
+      position: {x: -0.04227596, y: -0.03245941, z: -0.36540985}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow_01_bind_jnt
+      parentName: quiver_bind_jnt
+      position: {x: -0.041377984, y: 0.035361595, z: -0.37360016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow_05_bind_jnt
+      parentName: quiver_bind_jnt
+      position: {x: 0.019054031, y: 0.018325387, z: -0.37343597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arrow_03_bind_jnt
+      parentName: quiver_bind_jnt
+      position: {x: -0.036562003, y: -0.035614014, z: -0.33824798}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cape_A_01_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.1819818, y: -0.236198, z: 0.19257995}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cape_A_02_bind_jnt
+      parentName: R_cape_A_01_bind_jnt
+      position: {x: 0.054702565, y: -0.07581997, z: -0.28446808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cape_A_03_bind_jnt
+      parentName: R_cape_A_02_bind_jnt
+      position: {x: 0.015577621, y: -0.07474007, z: -0.26802185}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cape_A_04_bind_jnt
+      parentName: R_cape_A_03_bind_jnt
+      position: {x: -0.0003660202, y: -0.101558, z: -0.31113997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_cape_A_01_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.22871219, y: 0.010259939, z: 0.22486418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_cape_A_02_bind_jnt
+      parentName: M_cape_A_01_bind_jnt
+      position: {x: 0.044983786, y: 0, z: -0.32533813}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_cape_A_03_bind_jnt
+      parentName: M_cape_A_02_bind_jnt
+      position: {x: 0.06123001, y: 0, z: -0.31182402}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_cape_A_04_bind_jnt
+      parentName: M_cape_A_03_bind_jnt
+      position: {x: 0.014358024, y: -0.011288947, z: -0.36679602}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cape_A_01_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.16766079, y: 0.226448, z: 0.22551422}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cape_A_02_bind_jnt
+      parentName: L_cape_A_01_bind_jnt
+      position: {x: 0.038202208, y: 0.08746399, z: -0.2878842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cape_A_03_bind_jnt
+      parentName: L_cape_A_02_bind_jnt
+      position: {x: 0.018776398, y: 0.09307403, z: -0.34815}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cape_A_04_bind_jnt
+      parentName: L_cape_A_03_bind_jnt
+      position: {x: -0.0027576063, y: 0.08000999, z: -0.27615395}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_A_01_bind_jnt
+      parentName: bone_chest
+      position: {x: -0.010157804, y: 0.0915874, z: 0.38326597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_A_02_bind_jnt
+      parentName: L_hair_A_01_bind_jnt
+      position: {x: -0.037356194, y: -0.022790588, z: -0.0578598}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_A_03_bind_jnt
+      parentName: L_hair_A_02_bind_jnt
+      position: {x: -0.0328792, y: 0.014220785, z: -0.052736204}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_A_04_bind_jnt
+      parentName: L_hair_A_03_bind_jnt
+      position: {x: -0.025778197, y: 0.042841204, z: -0.043008115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_A_01_bind_jnt
+      parentName: bone_chest
+      position: {x: -0.005194807, y: -0.0822974, z: 0.392966}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_A_02_bind_jnt
+      parentName: R_hair_A_01_bind_jnt
+      position: {x: -0.03099679, y: 0.014764003, z: -0.07466003}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_A_03_bind_jnt
+      parentName: R_hair_A_02_bind_jnt
+      position: {x: -0.0034286021, y: -0.040406797, z: -0.05957611}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_A_04_bind_jnt
+      parentName: R_hair_A_03_bind_jnt
+      position: {x: -0.07801979, y: 0.014249, z: -0.026973877}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_shoulder_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.079274796, y: -0.033872, z: 0.28673613}
+      rotation: {x: -0, y: -0.095292196, z: 0.59774595, w: 0.79600203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pauldron_bind_jnt
+      parentName: R_shoulder_bind_jnt
+      position: {x: -0.0011039972, y: -0.13268898, z: 0.03251007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pauldron_feather_bind_jnt
+      parentName: R_pauldron_bind_jnt
+      position: {x: -0, y: -0.195279, z: -0.13987426}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upr_arm_bind_jnt
+      parentName: R_shoulder_bind_jnt
+      position: {x: 0.0000000047683715, y: -0.1652876, z: -0.026350098}
+      rotation: {x: -0.29132012, y: -0.10004744, z: 0.114396945, w: 0.94447684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lwr_arm_bind_jnt
+      parentName: R_upr_arm_bind_jnt
+      position: {x: -0.00000040531157, y: -0.25322837, z: -0.26684782}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lwr_arm_twist_01_bind_jnt
+      parentName: R_lwr_arm_bind_jnt
+      position: {x: -0.026340736, y: -0.12106804, z: -0.12757812}
+      rotation: {x: -0.008753894, y: -0.016530465, z: 0.017494008, w: 0.999672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lwr_arm_twist_02_bind_jnt
+      parentName: R_lwr_arm_twist_01_bind_jnt
+      position: {x: -0.02634076, y: -0.121069945, z: -0.12757812}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_hand_right
+      parentName: R_lwr_arm_twist_02_bind_jnt
+      position: {x: 0.0000000023841857, y: 0.0000019836425, z: -0.0000021362305}
+      rotation: {x: -0.017888276, y: -0.0012536772, z: 0.0048830193, w: 0.99982727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand Right Ref
+      parentName: bone_hand_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_tmb_01_bind_jnt
+      parentName: bone_hand_right
+      position: {x: -0.0386939, y: -0.009329987, z: -0.03098175}
+      rotation: {x: -0.10088613, y: 0.13214405, z: 0.06877179, w: 0.98368204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_tmb_02_bind_jnt
+      parentName: R_tmb_01_bind_jnt
+      position: {x: -0.040443, y: -0.0064140316, z: -0.04700409}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_tmb_03_bind_jnt
+      parentName: R_tmb_02_bind_jnt
+      position: {x: -0.0248814, y: -0.0055839536, z: -0.033299863}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ind_finger_01_bind_jnt
+      parentName: bone_hand_right
+      position: {x: -0.0599897, y: -0.079671934, z: -0.12100189}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ind_finger_02_bind_jnt
+      parentName: R_ind_finger_01_bind_jnt
+      position: {x: -0.010630999, y: -0.025218047, z: -0.038357925}
+      rotation: {x: -0.10954356, y: 0.011997199, z: 0.022472966, w: 0.9936555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ind_finger_03_bind_jnt
+      parentName: R_ind_finger_02_bind_jnt
+      position: {x: -0.0076180077, y: -0.009140015, z: -0.03225403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_mid_finger_01_bind_jnt
+      parentName: bone_hand_right
+      position: {x: -0.029017895, y: -0.07739593, z: -0.12336395}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_mid_finger_02_bind_jnt
+      parentName: R_mid_finger_01_bind_jnt
+      position: {x: -0.0041598035, y: -0.027120056, z: -0.0469577}
+      rotation: {x: -0.11528069, y: -0.015201147, z: 0.018991793, w: 0.993035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_mid_finger_03_bind_jnt
+      parentName: R_mid_finger_02_bind_jnt
+      position: {x: -0.00541461, y: -0.008901977, z: -0.039992217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_rng_finger_01_bind_jnt
+      parentName: bone_hand_right
+      position: {x: -0.000575521, y: -0.06419601, z: -0.13134369}
+      rotation: {x: -0.015373522, y: 0.028649397, z: -0.014357839, w: 0.99936813}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_rng_finger_02_bind_jnt
+      parentName: R_rng_finger_01_bind_jnt
+      position: {x: 0.00074052095, y: -0.023407897, z: -0.047500305}
+      rotation: {x: -0.14722058, y: -0.041829377, z: 0.01831781, w: 0.98804903}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_rng_finger_03_bind_jnt
+      parentName: R_rng_finger_02_bind_jnt
+      position: {x: -0.0030808614, y: -0.0030621337, z: -0.031753846}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pnk_finger_01_bind_jnt
+      parentName: bone_hand_right
+      position: {x: 0.02515902, y: -0.050812073, z: -0.13745575}
+      rotation: {x: -0.031211047, y: 0.056125462, z: -0.0278704, w: 0.99754655}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pnk_finger_02_bind_jnt
+      parentName: R_pnk_finger_01_bind_jnt
+      position: {x: 0.0031027794, y: -0.01793991, z: -0.03960205}
+      rotation: {x: -0.15772943, y: -0.04253133, z: 0.006908789, w: 0.98654187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_pnk_finger_03_bind_jnt
+      parentName: R_pnk_finger_02_bind_jnt
+      position: {x: -0.000875361, y: -0.0011740112, z: -0.027212067}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_breast_bind_jnt
+      parentName: bone_chest
+      position: {x: -0.059619598, y: -0.1078238, z: 0.123876035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_breast_bind_jnt
+      parentName: bone_chest
+      position: {x: -0.059619598, y: 0.1078238, z: 0.123876035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neck_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.04, y: 0, z: 0.29458222}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_head
+      parentName: neck_bind_jnt
+      position: {x: -0, y: 0, z: 0.19544372}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hd_anim_bind_jnt
+      parentName: bone_head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head Ref
+      parentName: hd_anim_bind_jnt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_B_01_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.102183595, y: 0.078264795, z: 0.053260192}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_B_02_bind_jnt
+      parentName: L_hair_B_01_bind_jnt
+      position: {x: 0.013042603, y: 0.0035350036, z: -0.073540345}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hair_B_03_bind_jnt
+      parentName: L_hair_B_02_bind_jnt
+      position: {x: 0.0036684035, y: -0.004619794, z: -0.07411957}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_B_01_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.099331394, y: -0.0792048, z: 0.057879943}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_B_02_bind_jnt
+      parentName: R_hair_B_01_bind_jnt
+      position: {x: 0.016696988, y: 0, z: -0.085539855}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hair_B_03_bind_jnt
+      parentName: R_hair_B_02_bind_jnt
+      position: {x: -0.0049395943, y: 0.0043399907, z: -0.062380064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_otr_eyebrow_02_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1649296, y: 0.10458979, z: 0.08480011}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_otr_eyebrow_02_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1649296, y: -0.10458979, z: 0.08482025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_eye_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.109483, y: 0.041080598, z: 0.046900023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jaw_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.0321128, y: 0, z: -0.0011199951}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ear_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: 0.01639574, y: 0.112044, z: 0.06950012}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_eye_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.109483, y: -0.041080598, z: 0.046900023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lwr_eyelid_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.109483, y: 0.041080598, z: 0.046900023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upr_eyelid_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.109483, y: 0.041080598, z: 0.046900023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upr_eyelid_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.109483, y: -0.041080598, z: 0.046900023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lwr_eyelid_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.109483, y: -0.041080598, z: 0.046900023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cheek_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.105801396, y: 0.0433472, z: 0.020620117}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cheek_03_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.08452039, y: 0.0261848, z: -0.038299866}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lwr_lip_01_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.131742, y: 0.018718358, z: -0.045140076}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lwr_lip_02_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.13758999, y: 0.0103419, z: -0.04671997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lip_corner_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1205488, y: 0.026972799, z: -0.04074005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_lwr_lip_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1383522, y: 0, z: -0.04791992}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upr_lip_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1372138, y: 0.016205639, z: -0.035039976}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lwr_lip_02_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.13758999, y: -0.0103419, z: -0.04671997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lwr_lip_01_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.131742, y: -0.018718358, z: -0.045140076}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lip_corner_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1205488, y: -0.026972799, z: -0.04074005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upr_lip_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1372138, y: -0.016205639, z: -0.035039976}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_upr_lip_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.140666, y: 0, z: -0.03465973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cheek_03_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.08452039, y: -0.0261848, z: -0.038299866}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cheek_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.105801396, y: -0.0433472, z: 0.020620117}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_otr_eyebrow_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.0933062, y: -0.0660768, z: 0.0668399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_mid_eyebrow_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.11356399, y: -0.048970997, z: 0.071600035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_inr_eyebrow_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.119522795, y: -0.01576418, z: 0.055379942}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_mid_eyebrow_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.11356399, y: 0.048970997, z: 0.071600035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_inr_eyebrow_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.119522795, y: 0.01576418, z: 0.055379942}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_otr_eyebrow_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.0933062, y: 0.0660768, z: 0.0668399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_cheek_02_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1231244, y: 0.027541999, z: 0.010840149}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nose_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.13708639, y: 0, z: 0.00026000975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_nostril_bind_jnt
+      parentName: nose_bind_jnt
+      position: {x: -0.010035801, y: -0.0120366, z: 0.0002798462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_nostril_bind_jnt
+      parentName: nose_bind_jnt
+      position: {x: -0.010035801, y: 0.0120366, z: 0.0002798462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_cheek_02_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1231244, y: -0.027541999, z: 0.010840149}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ear_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: 0.01639574, y: -0.112044, z: 0.06950012}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tongue_01_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.044440396, y: 0, z: -0.04428009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tongue_02_bind_jnt
+      parentName: tongue_01_bind_jnt
+      position: {x: -0.055452008, y: 0, z: 0.00000030517577}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upr_teeth_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.1342544, y: 0, z: -0.037019957}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lwr_teeth_bind_jnt
+      parentName: hd_anim_bind_jnt
+      position: {x: -0.134242, y: 0, z: -0.04373993}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_shoulder_bind_jnt
+      parentName: bone_chest
+      position: {x: 0.079274796, y: 0.033872, z: 0.28673613}
+      rotation: {x: -0, y: 0.0952926, z: 0.5977459, w: 0.79600203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pauldron_bind_jnt
+      parentName: L_shoulder_bind_jnt
+      position: {x: -0.0011039972, y: 0.13268898, z: 0.03251007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pauldron_feather_bind_jnt
+      parentName: L_pauldron_bind_jnt
+      position: {x: -0, y: 0.18296501, z: -0.15563811}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upr_arm_bind_jnt
+      parentName: L_shoulder_bind_jnt
+      position: {x: 0.0000000047683715, y: 0.1652876, z: -0.026350098}
+      rotation: {x: 0.28695163, y: 0.09134815, z: 0.067522906, w: 0.9511861}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lwr_arm_bind_jnt
+      parentName: L_upr_arm_bind_jnt
+      position: {x: 0.00000079631803, y: 0.25322837, z: -0.26684782}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lwr_arm_twist_01_bind_jnt
+      parentName: L_lwr_arm_bind_jnt
+      position: {x: -0.026341338, y: 0.12106804, z: -0.12757812}
+      rotation: {x: 0.0031629193, y: -0.0034499753, z: -0.0039269705, w: 0.99998134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lwr_arm_twist_02_bind_jnt
+      parentName: L_lwr_arm_twist_01_bind_jnt
+      position: {x: -0.02634134, y: 0.12106796, z: -0.12757812}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_hand_left
+      parentName: L_lwr_arm_twist_02_bind_jnt
+      position: {x: 0.000000021457671, y: 0, z: 0}
+      rotation: {x: 0.004446951, y: 0.0013567576, z: 0.00036938844, w: 0.9999891}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand Left Ref
+      parentName: bone_hand_left
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_tmb_01_bind_jnt
+      parentName: bone_hand_left
+      position: {x: -0.038693942, y: 0.009329987, z: -0.030983886}
+      rotation: {x: 0.0046856287, y: 0.03238495, z: 0.0003877124, w: 0.99946445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_tmb_02_bind_jnt
+      parentName: L_tmb_01_bind_jnt
+      position: {x: -0.040443, y: 0.0064140316, z: -0.04700409}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_tmb_03_bind_jnt
+      parentName: L_tmb_02_bind_jnt
+      position: {x: -0.0248814, y: 0.0055839536, z: -0.033299863}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ind_finger_01_bind_jnt
+      parentName: bone_hand_left
+      position: {x: -0.059989747, y: 0.079671934, z: -0.12100372}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ind_finger_02_bind_jnt
+      parentName: L_ind_finger_01_bind_jnt
+      position: {x: -0.0106309885, y: 0.025218047, z: -0.03835823}
+      rotation: {x: 0.109538615, y: 0.011997244, z: -0.022471165, w: 0.9936561}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ind_finger_03_bind_jnt
+      parentName: L_ind_finger_02_bind_jnt
+      position: {x: -0.0076177977, y: 0.009140015, z: -0.03225403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_mid_finger_01_bind_jnt
+      parentName: bone_hand_left
+      position: {x: -0.029017938, y: 0.07739593, z: -0.12336578}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_mid_finger_02_bind_jnt
+      parentName: L_mid_finger_01_bind_jnt
+      position: {x: -0.0041598035, y: 0.027120056, z: -0.046958312}
+      rotation: {x: 0.11527854, y: -0.015201212, z: -0.018991282, w: 0.9930353}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_mid_finger_03_bind_jnt
+      parentName: L_mid_finger_02_bind_jnt
+      position: {x: -0.0054146005, y: 0.008901977, z: -0.03999191}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_rng_finger_01_bind_jnt
+      parentName: bone_hand_left
+      position: {x: -0.000575521, y: 0.06419601, z: -0.13134612}
+      rotation: {x: 0.015377812, y: 0.02865169, z: 0.014358172, w: 0.9993681}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_rng_finger_02_bind_jnt
+      parentName: L_rng_finger_01_bind_jnt
+      position: {x: 0.00074052095, y: 0.023406066, z: -0.047499694}
+      rotation: {x: 0.14718282, y: -0.041825954, z: -0.018315513, w: 0.9880549}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_rng_finger_03_bind_jnt
+      parentName: L_rng_finger_02_bind_jnt
+      position: {x: -0.0030808614, y: 0.003063965, z: -0.03175415}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pnk_finger_01_bind_jnt
+      parentName: bone_hand_left
+      position: {x: 0.02515902, y: 0.050812073, z: -0.13745788}
+      rotation: {x: 0.031209353, y: 0.056124244, z: 0.02786968, w: 0.99754673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pnk_finger_02_bind_jnt
+      parentName: L_pnk_finger_01_bind_jnt
+      position: {x: 0.0031027768, y: 0.01793991, z: -0.03960205}
+      rotation: {x: 0.15772544, y: -0.042531397, z: -0.0069090817, w: 0.98654246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_pnk_finger_03_bind_jnt
+      parentName: L_pnk_finger_02_bind_jnt
+      position: {x: -0.0008753586, y: 0.0011740112, z: -0.027212067}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 2
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
